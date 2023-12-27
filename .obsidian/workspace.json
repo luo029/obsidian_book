@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15827defd2cf2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e48f649e1312d82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "293a00eeb2b65e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169762c0897285b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a927cf4be47876",
+        "type": "tabs",
+        "dimension": 82.75862068965517,
+        "children": [
+          {
+            "id": "3090910a3bbb4bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "d4cc5673d41093ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d206ddbf33ef6a31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "91a1e2eb2492518d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2d3d1f4b6a566ca",
+        "type": "tabs",
+        "dimension": 17.24137931034483,
+        "children": [
+          {
+            "id": "60ed30d1cc6d4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2023-12-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e7011190a6a4416",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c47daab7a7f6b09",
+        "type": "tabs",
+        "dimension": 61.095372993389994,
+        "children": [
+          {
+            "id": "0d92b31ac7bc3511",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "21e5edcb06cb4ba1",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md",
+                "itemId": -1,
+                "attachmentId": -1,
+                "follow": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 38.904627006610006,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md"
+              }
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-secure:Remotely Sync": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "293a00eeb2b65e30",
+  "lastOpenFiles": [
+    "01-Diary/本周事务/未命名.md",
+    "01-Diary/日志存档/2023-12-27.md",
+    "00-MOC/任务看板.md",
+    "01-Diary/日志存档/2023-12-25.md",
+    "08-Assets/pdfs/道藏/Z01.pdf",
+    "08-Assets/pdfs/(德)赫尔曼.黑塞(Hermann Hesse)著 ; 赵登荣, 倪诚恩译 和 Hesse - 2008 - 荒原狼 = Der Steppenwolf.pdf",
+    "08-Assets/pdfs/道藏",
+    "08-Assets/pdfs/道藏/Z02.pdf",
+    "00-MOC/愿望清单.md",
+    "00-MOC/本周事务.md",
+    "00-MOC/阅读清单.md",
+    "00-MOC/每日修持.md",
+    "01-Diary/日志存档/2023-12-24.md",
+    "README.md",
+    "08-Assets/列表缩进.gif",
+    "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
+    "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
+    "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
+    "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
+    "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md",
+    "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
+    "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
+    "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
+    "01-Diary/日志存档/2023-12-23.md",
+    "09-Templates/日志模板.md",
+    "00-MOC/未命名.canvas",
+    "09-Templates/代码整理.md",
+    "09-Templates/每周小结.md",
+    "09-Templates/草稿模板.md",
+    "09-Templates/时间戳.md",
+    "09-Templates/阅读批注.md",
+    "08-Assets/Pasted image 20230718164658.png",
+    "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏第二册.pdf",
+    "08-Assets/Pasted image 20230718165911.png",
+    "08-Assets/Pasted image 20230718170012.png",
+    "00-MOC/文献阅读白板.canvas",
+    "08-Assets/pdfs/2014_-中華道藏.pdf",
+    "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏.pdf",
+    "08-Assets/pdfs",
+    "02-Reading/mdnotes/Z01.pdf",
+    "Templates/ZtTemplates",
+    "08-Assets/Pasted image 20230718160014.png",
+    "08-Assets/Pasted image 20220321142732.png",
+    "08-Assets/Pasted image 20220321143352.png",
+    "08-Assets/Pasted image 20230717203424.png",
+    "08-Assets/Pasted image 20230718142536.png",
+    "08-Assets/Pasted image 20230718144911.png",
+    "00-MOC/obsidian升级内容.canvas"
+  ]
+}

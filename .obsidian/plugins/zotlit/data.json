@@ -1,0 +1,27 @@
+{
+  "logLevel": "INFO",
+  "citationEditorSuggester": true,
+  "showCitekeyInSuggester": false,
+  "literatureNoteFolder": "02-Reading/mdnotes",
+  "enableServer": true,
+  "serverPort": 9091,
+  "serverHostname": "127.0.0.1",
+  "template": {
+    "folder": "09-Templates/ZtTemplates",
+    "templates": {
+      "filename": "<%= it.citekey ?? it.DOI ?? it.title ?? it.key %>.md"
+    }
+  },
+  "updateAnnotBlock": false,
+  "updateOverwrite": false,
+  "autoPairEta": false,
+  "autoTrim": [
+    false,
+    false
+  ],
+  "autoRefresh": true,
+  "zoteroDataDir": "D:\\zotero_data",
+  "citationLibrary": 1,
+  "imgExcerptImport": "copy",
+  "imgExcerptPath": "ZtImgExcerpt"
+}

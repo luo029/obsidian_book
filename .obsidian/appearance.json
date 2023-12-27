@@ -1,0 +1,24 @@
+{
+  "baseFontSize": 20,
+  "translucency": false,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "S - Images Adjustments",
+    "S - Admonitions",
+    "S - Aside",
+    "S - Checkboxes",
+    "S - Embed Adjustments",
+    "S - Encoded Icons",
+    "S - External Link Icons",
+    "S - Kanban",
+    "【日记】Time",
+    "【自定义】mytools 样式",
+    "【图标】iconfont"
+  ],
+  "baseFontSizeAction": false,
+  "accentColor": "#1f9de0",
+  "interfaceFontFamily": "Cascadia Code,霞鹜文楷 屏幕阅读版",
+  "textFontFamily": "霞鹜文楷 屏幕阅读版,Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Code"
+}
