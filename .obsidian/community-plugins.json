@@ -17,5 +17,6 @@
   "mx-bili-plugin",
   "obsidian-admonition",
   "obsidian-annotator",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-git"
 ]

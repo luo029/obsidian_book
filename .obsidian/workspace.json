@@ -176,12 +176,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-secure:Remotely Sync": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
