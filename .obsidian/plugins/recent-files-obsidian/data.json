@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "书库",
+      "path": "书库.md"
+    },
+    {
+      "basename": "查询书",
+      "path": "查询书.md"
+    },
+    {
+      "basename": "BookLibPath",
+      "path": "08-Assets/Scripts/BookLibPath.md"
+    },
+    {
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
+    },
+    {
+      "basename": "dataview表格数据下载",
+      "path": "08-Assets/Scripts/dataview表格数据下载.md"
+    },
+    {
       "basename": "每日修持",
       "path": "00-MOC/每日修持.md"
     },
@@ -67,10 +87,6 @@
     {
       "basename": "Mdnotes Default Template",
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
-      "basename": "dataview表格数据下载",
-      "path": "08-Assets/Scripts/dataview表格数据下载.md"
     }
   ],
   "omittedPaths": [],

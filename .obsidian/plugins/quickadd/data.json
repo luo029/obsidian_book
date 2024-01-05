@@ -97,6 +97,13 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "c66220f2-36b8-43db-a2cf-135ec265d804",
+      "name": "[脚本]添加书籍",
+      "type": "Macro",
+      "command": true,
+      "macroId": "bec9b25f-9355-4dd7-93f4-24c0f34d3db3"
     }
   ],
   "macros": [
@@ -115,6 +122,55 @@
           "type": "Obsidian",
           "id": "a7c2da82-1a68-4743-b4f7-84f0b7822ae8",
           "commandId": "file-explorer:move-file"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "[脚本]添加书籍",
+      "id": "bec9b25f-9355-4dd7-93f4-24c0f34d3db3",
+      "commands": [
+        {
+          "name": "bookfromdouban",
+          "type": "UserScript",
+          "id": "e5f3e4cc-455f-45b8-998c-5dfb71258a4c",
+          "path": "08-Assets/Scripts/bookfromdouban.js",
+          "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "a457592a-1b64-4e17-9017-8006c5899a95",
+          "choice": {
+            "id": "ef58b489-1075-4bd6-86f0-7ddb46807954",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "09-Templates/书籍模板.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:bookname}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "01-Books/0_inbox"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
         }
       ],
       "runOnStartup": false
