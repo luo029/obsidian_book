@@ -19,8 +19,16 @@
   "obsidian-annotator",
   "editing-toolbar",
   "obsidian-git",
+<<<<<<< HEAD
   "buttons",
   "obsidian-chartsview-plugin",
   "cmdr",
   "obsidian-linter"
+=======
+  "obsidian-weread-plugin",
+  "obsidian-linter",
+  "cmdr",
+  "obsidian-chartsview-plugin",
+  "buttons"
+>>>>>>> origin/main
 ]

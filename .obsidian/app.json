@@ -25,5 +25,6 @@
   "autoPairBrackets": true,
   "useTab": true,
   "smartIndentList": true,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "useMarkdownLinks": true
 }

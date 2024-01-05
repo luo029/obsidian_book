@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "书库",
+      "path": "书库.md"
+    },
+    {
       "basename": "BookLibPath",
       "path": "08-Assets/Scripts/BookLibPath.md"
+    },
+    {
+      "basename": "查询书",
+      "path": "查询书.md"
     },
     {
       "basename": "button",
@@ -13,20 +21,20 @@
       "path": "09-Templates/书籍模板.md"
     },
     {
+      "basename": "Mdnotes Default Template",
+      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
     },
     {
       "basename": "日志模板",
       "path": "09-Templates/日志模板.md"
-    },
-    {
-      "basename": "书库",
-      "path": "书库.md"
-    },
-    {
-      "basename": "查询书",
-      "path": "查询书.md"
     },
     {
       "basename": "中华道藏",
@@ -55,10 +63,6 @@
     {
       "basename": "愿望清单",
       "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
     },
     {
       "basename": "每周小结",
@@ -91,10 +95,6 @@
     {
       "basename": "zt-colored.eta",
       "path": "09-Templates/ZtTemplates/zt-colored.eta.md"
-    },
-    {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     }
   ],
   "omittedPaths": [],
