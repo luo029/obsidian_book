@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书库.md",
+                "file": "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "书库.md",
+                "file": "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书库.md"
+                "file": "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书库.md",
+                "file": "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +180,11 @@
   },
   "active": "c0e4c7449b331318",
   "lastOpenFiles": [
-    "02-Reading/0_inbox/中华道藏.md",
+    "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏.pdf",
+    "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md",
     "书库.md",
     "查询书.md",
+    "02-Reading/0_inbox/中华道藏.md",
     "08-Assets/Scripts/BookLibPath.md",
     "00-MOC/任务看板.md",
     "00-MOC/阅读清单.md",
@@ -213,9 +215,6 @@
     "书库/F_经济",
     "书库",
     "09-Templates/草稿模板.md",
-    "09-Templates/日志模板.md",
-    "02-Reading/B_哲学/B84_心理学",
-    "01-Books/F_经济/F4_工业经济/中华道藏.md",
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名.canvas",
