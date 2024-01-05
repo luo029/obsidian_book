@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "书库",
-      "path": "书库.md"
-    },
-    {
       "basename": "BookLibPath",
       "path": "08-Assets/Scripts/BookLibPath.md"
+    },
+    {
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
+    },
+    {
+      "basename": "书库",
+      "path": "书库.md"
     },
     {
       "basename": "查询书",
       "path": "查询书.md"
     },
     {
-      "basename": "button",
-      "path": "08-Assets/Scripts/button.md"
+      "basename": "中华道藏",
+      "path": "07-Archives/0_读书笔记/中华道藏/中华道藏.md"
+    },
+    {
+      "basename": "中华道藏",
+      "path": "02-Reading/B_哲学/B84_心理学/中华道藏.md"
+    },
+    {
+      "basename": "第二章",
+      "path": "07-Archives/0_读书笔记/中华道藏/第二章.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "07-Archives/0_读书笔记/中华道藏/第一章.md"
     },
     {
       "basename": "书籍模板",
@@ -35,10 +51,6 @@
     {
       "basename": "日志模板",
       "path": "09-Templates/日志模板.md"
-    },
-    {
-      "basename": "中华道藏",
-      "path": "02-Reading/B_哲学/B84_心理学/中华道藏.md"
     },
     {
       "basename": "任务看板",
