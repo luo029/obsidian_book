@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/每日修持.md",
+                "file": "书库.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "66a927cf4be47876",
         "type": "tabs",
-        "dimension": 82.75862068965517,
+        "dimension": 63.41772151898735,
         "children": [
           {
             "id": "3090910a3bbb4bfa",
@@ -79,7 +79,7 @@
       {
         "id": "a2d3d1f4b6a566ca",
         "type": "tabs",
-        "dimension": 17.24137931034483,
+        "dimension": 36.58227848101266,
         "children": [
           {
             "id": "60ed30d1cc6d4c8d",
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -119,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/每日修持.md",
+                "file": "书库.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/每日修持.md"
+                "file": "书库.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/每日修持.md",
+                "file": "书库.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,16 +174,20 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
   "active": "293a00eeb2b65e30",
   "lastOpenFiles": [
+    "查询书.md",
+    "书库.md",
+    "08-Assets/Scripts/dataview表格数据下载.md",
+    "00-MOC/每日修持.md",
     "00-MOC/任务看板.md",
     "00-MOC/阅读清单.md",
     "00-MOC/本周事务.md",
     "00-MOC/愿望清单.md",
-    "00-MOC/每日修持.md",
     "01-Diary/日志存档/2023-12-27.md",
     "02-Reading/0-书摘",
     "01-Diary/周小结",
@@ -212,8 +215,6 @@
     "00-MOC/未命名.canvas",
     "09-Templates/代码整理.md",
     "09-Templates/每周小结.md",
-    "09-Templates/草稿模板.md",
-    "09-Templates/时间戳.md",
     "08-Assets/Pasted image 20230718164658.png",
     "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏第二册.pdf",
     "08-Assets/Pasted image 20230718165911.png",

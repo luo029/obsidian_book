@@ -1,17 +1,17 @@
 {
   "renderNullAs": "\\-",
-  "taskCompletionTracking": true,
+  "taskCompletionTracking": false,
   "taskCompletionUseEmojiShorthand": false,
   "taskCompletionText": "completion",
   "taskCompletionDateFormat": "yyyy-MM-dd",
   "recursiveSubTaskCompletion": false,
   "warnOnEmptyResult": true,
   "refreshEnabled": true,
-  "refreshInterval": 200,
-  "defaultDateFormat": "yyyy-MM-dd",
-  "defaultDateTimeFormat": "yyyy-MM-dd hh:mm",
-  "maxRecursiveRenderDepth": 6,
-  "tableIdColumnName": "文件名",
+  "refreshInterval": 2500,
+  "defaultDateFormat": "MMMM dd, yyyy",
+  "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
+  "maxRecursiveRenderDepth": 4,
+  "tableIdColumnName": "File",
   "tableGroupColumnName": "Group",
   "showResultCount": true,
   "allowHtml": true,
@@ -22,8 +22,5 @@
   "enableDataviewJs": true,
   "enableInlineDataviewJs": true,
   "prettyRenderInlineFields": true,
-  "dataviewJsKeyword": "dataviewjs",
-  "schemaVersion": 1,
-  "taskLinkLocation": "end",
-  "taskLinkText": "🔗"
+  "dataviewJsKeyword": "dataviewjs"
 }

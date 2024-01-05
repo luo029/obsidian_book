@@ -1,8 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "09-Templates",
-  "templates_pairs": [],
-  "trigger_on_file_creation": true,
+  "templates_folder": "Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -10,14 +15,17 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01-Diary/本周事务",
-      "template": "09-Templates/草稿模板.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [],
+  "startup_templates": [
+    ""
+  ],
   "enable_ribbon_icon": true
 }

@@ -18,5 +18,11 @@
   "obsidian-admonition",
   "obsidian-annotator",
   "editing-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-weread-plugin",
+  "obsidian-linter",
+  "cmdr",
+  "obsidian-chartsview-plugin",
+  "buttons",
+  "obsidian-banners"
 ]

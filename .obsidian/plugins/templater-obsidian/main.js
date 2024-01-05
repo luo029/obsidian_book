@@ -70,9 +70,7 @@ var TemplaterError = class extends Error {
     super(msg);
     this.console_msg = console_msg;
     this.name = this.constructor.name;
-    if (Error.captureStackTrace) {
-      Error.captureStackTrace(this, this.constructor);
-    }
+    Error.captureStackTrace(this, this.constructor);
   }
 };
 async function errorWrapper(fn2, msg) {
@@ -3645,6 +3643,9 @@ var Templater = class {
     const doc = editor.getDoc();
     const oldSelections = doc.listSelections();
     doc.replaceSelection(output_content);
+    if (active_view) {
+      await active_view.save();
+    }
     app.workspace.trigger("templater:template-appended", {
       view: active_view,
       editor: active_editor,
@@ -5596,8 +5597,8 @@ var TemplaterPlugin = class extends import_obsidian17.Plugin {
       this.templater.execute_startup_scripts();
     });
   }
-  onunload() {
-    this.templater.functions_generator.teardown();
+  async unload() {
+    await this.templater.functions_generator.teardown();
   }
   async save_settings() {
     await this.saveData(this.settings);
