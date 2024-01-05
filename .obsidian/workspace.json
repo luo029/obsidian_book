@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +178,14 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "c0e4c7449b331318",
   "lastOpenFiles": [
+    "查询书.md",
+    "书库.md",
     "07-Archives/0_读书笔记/中华道藏/中华道藏.md",
     "02-Reading/B_哲学/B84_心理学/中华道藏.md",
     "07-Archives/0_读书笔记/中华道藏/第二章.md",
     "07-Archives/0_读书笔记/中华道藏/第一章.md",
-    "查询书.md",
-    "书库.md",
     "07-Archives/0_读书笔记/中华道藏/未命名看板.md",
     "07-Archives/0_读书笔记/中华道藏/未命名",
     "08-Assets/Scripts/BookLibPath.md",

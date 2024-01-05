@@ -27,5 +27,6 @@
   "smartIndentList": true,
   "autoConvertHtml": true,
   "useMarkdownLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "readableLineLength": false
 }
