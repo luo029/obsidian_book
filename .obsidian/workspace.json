@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "eed69b6898b560c6",
+        "id": "72f3e07bfe5c21d9",
         "type": "tabs",
         "children": [
           {
-            "id": "41f88fe3e8306434",
+            "id": "c0e4c7449b331318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Assets/Scripts/BookLibPath.md",
+                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
                 "mode": "preview",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f826ed3f6c091ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +130,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "08-Assets/Scripts/BookLibPath.md",
+                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-Assets/Scripts/BookLibPath.md"
+                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md"
               }
             }
           },
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-Assets/Scripts/BookLibPath.md",
+                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,22 +187,25 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "41f88fe3e8306434",
+  "active": "c0e4c7449b331318",
   "lastOpenFiles": [
-    "08-Assets/Scripts/button.md",
-    "书库.md",
-    "查询书.md",
-    "07-Archives/0_读书笔记/中华道藏/中华道藏.md",
     "02-Reading/B_哲学/B84_心理学/中华道藏.md",
-    "07-Archives/0_读书笔记/中华道藏/第二章.md",
+    "07-Archives/0_读书笔记/中华道藏读书笔记/第二章.md",
+    "07-Archives/0_读书笔记/中华道藏读书笔记/第一章.md",
+    "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+    "07-Archives/0_读书笔记/中华道藏/未命名看板.md",
+    "07-Archives/0_读书笔记/中华道藏/未命名",
+    "书库.md",
     "08-Assets/Scripts/BookLibPath.md",
-    "07-Archives/0_读书笔记/中华道藏/第一章.md",
+    "08-Assets/Scripts/button.md",
+    "查询书.md",
     "09-Templates/书籍模板.md",
     "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏",
-    "07-Archives/0_读书笔记/中华道藏",
+    "07-Archives/0_读书笔记/中华道藏读书笔记",
     "conflict-files-obsidian-git.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
     "07-Archives/0_读书笔记",
@@ -205,7 +220,6 @@
     "09-Templates/草稿模板.md",
     "09-Templates/日志模板.md",
     "02-Reading/B_哲学/B84_心理学",
-    "02-Reading/B_哲学",
     "00-MOC/任务看板.md",
     "01-Books/F_经济/F4_工业经济/中华道藏.md",
     "书库/B_哲学/B84_心理学/中华道藏.md",
@@ -214,8 +228,6 @@
     "09-Templates/ZtTemplates/zt-colored.eta.md",
     "09-Templates/ZtTemplates/zt-cite2.eta.md",
     "09-Templates/ZtTemplates/zt-cite.eta.md",
-    "09-Templates/ZtTemplates/zt-annots.eta.md",
-    "09-Templates/ZtTemplates/zt-annot.eta.md",
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名.canvas",
