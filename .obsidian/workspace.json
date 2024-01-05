@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书库.md",
+                "file": "Script/BookLibPath.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "书库.md",
+                "file": "Script/BookLibPath.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书库.md"
+                "file": "Script/BookLibPath.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书库.md",
+                "file": "Script/BookLibPath.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,14 +180,27 @@
   },
   "active": "293a00eeb2b65e30",
   "lastOpenFiles": [
+    "Script/button.md",
+    "书库.md",
+    "查询书.md",
+    "书库/A_马克思主义",
+    "书库/A_马克思主义/中华道藏.md",
+    "Script/BookLibPath.md",
+    "书库/0_inbox/中华道藏.md",
+    "书库/B_哲学/B84_心理学/中华道藏.md",
+    "书库/B_哲学/B84_心理学",
+    "书库/B_哲学",
+    "书库/F_经济/F3_农业经济",
+    "书库/F_经济",
+    "书库/F_经济/F3_农业经济/中华道藏1.md",
+    "01-books/中华道藏.md",
+    "书库/A_马克思主义/中华道藏.md",
+    "书库/0_inbox",
+    "书库",
+    "01-books/0_inbox",
+    "01-books",
     "新建文件夹",
     "09-Templates/书籍模板.md",
-    "Script/button.md",
-    "Script/BookLibPath.md",
-    "书库.md",
-    "Script/bookfromdouban.js",
-    "Script",
-    "查询书.md",
     "08-Assets/Scripts/dataview表格数据下载.md",
     "00-MOC/每日修持.md",
     "00-MOC/任务看板.md",
@@ -195,34 +208,20 @@
     "00-MOC/本周事务.md",
     "00-MOC/愿望清单.md",
     "01-Diary/日志存档/2023-12-27.md",
-    "02-Reading/0-书摘",
-    "01-Diary/周小结",
     "01-Diary/本周事务/未命名.md",
     "01-Diary/日志存档/2023-12-25.md",
-    "08-Assets/pdfs/道藏/Z01.pdf",
-    "08-Assets/pdfs/(德)赫尔曼.黑塞(Hermann Hesse)著 ; 赵登荣, 倪诚恩译 和 Hesse - 2008 - 荒原狼 = Der Steppenwolf.pdf",
-    "08-Assets/pdfs/道藏",
-    "08-Assets/pdfs/道藏/Z02.pdf",
     "01-Diary/日志存档/2023-12-24.md",
     "README.md",
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
     "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
-    "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
-    "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md",
-    "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
-    "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
-    "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
     "00-MOC/未命名.canvas",
     "08-Assets/Pasted image 20230718164658.png",
-    "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏第二册.pdf",
     "08-Assets/Pasted image 20230718165911.png",
     "08-Assets/Pasted image 20230718170012.png",
     "00-MOC/文献阅读白板.canvas",
-    "08-Assets/pdfs/2014_-中華道藏.pdf",
     "08-Assets/Pasted image 20230718160014.png",
     "08-Assets/Pasted image 20220321142732.png",
     "08-Assets/Pasted image 20220321143352.png",

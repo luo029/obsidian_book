@@ -37,7 +37,7 @@
             "folder": {
               "enabled": true,
               "folders": [
-                "书库/0_inbox"
+                "01-books/0_inbox"
               ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false,
