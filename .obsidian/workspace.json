@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书库.md",
+                "file": "08-Assets/Scripts/BookLibPath.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "书库.md",
+                "file": "08-Assets/Scripts/BookLibPath.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书库.md"
+                "file": "08-Assets/Scripts/BookLibPath.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书库.md",
+                "file": "08-Assets/Scripts/BookLibPath.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,12 +179,27 @@
   },
   "active": "293a00eeb2b65e30",
   "lastOpenFiles": [
-    "01-Books/0_inbox",
-    "09-Templates/书籍模板.md",
-    "查询书.md",
-    "08-Assets/Scripts/BookLibPath.md",
     "08-Assets/Scripts/button.md",
+    "09-Templates/书籍模板.md",
+    "09-Templates/草稿模板.md",
+    "09-Templates/日志模板.md",
     "书库.md",
+    "查询书.md",
+    "02-Reading/B_哲学/B84_心理学/中华道藏.md",
+    "02-Reading/undefined中华道藏.md",
+    "02-Reading/B_哲学/B84_心理学",
+    "02-Reading/B_哲学",
+    "01-Diary/日志存档",
+    "00-MOC/任务看板.md",
+    "01-Books/F_经济/F4_工业经济",
+    "01-Books/F_经济",
+    "01-Books/F_经济/F4_工业经济/中华道藏.md",
+    "08-Assets/Scripts/BookLibPath.md",
+    "书库/B_哲学/B84_心理学/中华道藏.md",
+    "书库/B_哲学/B84_心理学",
+    "书库/B_哲学",
+    "书库",
+    "02-Reading/0_inbox",
     "08-Assets/Scripts/bookfromdouban.js",
     "09-Templates/ZtTemplates/zt-note.eta.md",
     "09-Templates/ZtTemplates/zt-field.eta.md",
@@ -194,27 +209,12 @@
     "09-Templates/ZtTemplates/zt-annots.eta.md",
     "09-Templates/ZtTemplates/zt-annot.eta.md",
     "09-Templates/每周小结.md",
-    "09-Templates/草稿模板.md",
-    "09-Templates/日志模板.md",
     "09-Templates/代码整理.md",
-    "09-Templates/ZtTemplates",
-    "09-Templates",
     "08-Assets/Scripts/Mdnotes Default Template.md",
     "08-Assets/Scripts/dataview表格数据下载.md",
-    "08-Assets/我的文库.bib",
-    "08-Assets/Scripts",
-    "08-Assets/pdfs",
-    "08-Assets",
-    "07-Archives",
-    "03-Projects",
-    "02-Reading/mdnotes",
     "00-MOC/阅读清单.md",
     "00-MOC/每日修持.md",
     "00-MOC/本周事务.md",
-    "00-MOC/愿望清单.md",
-    "00-MOC/任务看板.md",
-    "书库/F_经济/F4_工业经济/中华道藏.md",
-    "书库/A_马克思主义/中华道藏.md",
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名.canvas",

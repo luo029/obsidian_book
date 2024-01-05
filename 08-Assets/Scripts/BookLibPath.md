@@ -1,5 +1,5 @@
 ---
-BookLibPath: "书库"
+BookLibPath: "02-Reading"
 WereadPath: "微信读书"
 ZoteroPath: "ZoteroLib"
 BookNotePath: "读书笔记"

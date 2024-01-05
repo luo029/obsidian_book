@@ -69,7 +69,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "00-MOC/未命名看板 1.md",
+      "captureTo": "00-MOC/任务看板.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -154,7 +154,7 @@
             "folder": {
               "enabled": true,
               "folders": [
-                "01-Books/0_inbox"
+                "02-Reading/0_inbox"
               ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false,
