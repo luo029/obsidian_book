@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "书库",
+      "path": "书库.md"
+    },
+    {
+      "basename": "中华道藏",
+      "path": "02-Reading/0_inbox/中华道藏.md"
+    },
+    {
+      "basename": "查询书",
+      "path": "查询书.md"
+    },
+    {
+      "basename": "BookLibPath",
+      "path": "08-Assets/Scripts/BookLibPath.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "00-MOC/任务看板.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
+    },
+    {
+      "basename": "每日修持",
+      "path": "00-MOC/每日修持.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "一时疑惑",
+      "path": "00-MOC/一时疑惑.md"
+    },
+    {
       "basename": "dataview表格数据下载",
       "path": "08-Assets/Scripts/dataview表格数据下载.md"
     },
@@ -9,40 +45,8 @@
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
     {
-      "basename": "愿望清",
-      "path": "00-MOC/愿望清.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "每日修持",
-      "path": "00-MOC/每日修持.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-MOC/阅读清单.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "00-MOC/任务看板.md"
-    },
-    {
-      "basename": "书库",
-      "path": "书库.md"
-    },
-    {
-      "basename": "查询书",
-      "path": "查询书.md"
-    },
-    {
       "basename": "书籍模板",
       "path": "09-Templates/书籍模板.md"
-    },
-    {
-      "basename": "BookLibPath",
-      "path": "08-Assets/Scripts/BookLibPath.md"
     },
     {
       "basename": "button",

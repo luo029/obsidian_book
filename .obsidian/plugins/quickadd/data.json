@@ -1,11 +1,186 @@
 {
-  "choices": [],
-  "macros": [],
+  "choices": [
+    {
+      "id": "13aa960e-9e3e-4aec-b6aa-35adf841a841",
+      "name": "⏱️随手记记",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "01-Diary/日志存档/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "09-Templates/日志模板.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\\n- <% tp.date.now(\"HH:mm\") %> {{VALUE:⏱️Tracking}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Tracking",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "aaebfa0f-d697-4c2c-8da5-e31a341b2354",
+      "name": "✔每周小结",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09-Templates/每周小结.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}}_周小结"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01-Diary/周小结"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": true,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "c9084343-278c-460a-adc8-bac006cfdfe4",
+      "name": "📝新增任务",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "00-MOC/任务看板.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE:New Task}} @[[<% tp.date.now(\"YYYY-MM-DD\") %>]] @@{<% tp.date.now(\"HH:mm:ss\") %>}\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Todo",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "18266a2d-7eb5-4c49-9ba7-c2d2bbba8a37",
+      "name": "[脚本]添加书籍",
+      "type": "Macro",
+      "command": true,
+      "macroId": "a7f793f1-f008-496e-95c1-78934c4b35a0"
+    }
+  ],
+  "macros": [
+    {
+      "name": "定向内容",
+      "id": "2751c8b9-04af-452e-8a77-f722155996fd",
+      "commands": [
+        {
+          "name": "Templater: Insert Template",
+          "type": "Obsidian",
+          "id": "b5d02fb5-1949-40fd-889e-fce5a5704134",
+          "commandId": "templater-obsidian:insert-templater"
+        },
+        {
+          "name": "文件列表: 将文件移动到其他文件夹",
+          "type": "Obsidian",
+          "id": "a7c2da82-1a68-4743-b4f7-84f0b7822ae8",
+          "commandId": "file-explorer:move-file"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "[脚本]添加书籍",
+      "id": "a7f793f1-f008-496e-95c1-78934c4b35a0",
+      "commands": [
+        {
+          "name": "bookfromdouban",
+          "type": "UserScript",
+          "id": "408ecc3a-f837-42e0-bdc1-8f17c6391e04",
+          "path": "08-Assets/Scripts/bookfromdouban.js",
+          "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "80caa3e5-c7ce-4de9-a69d-7195f1fc8923",
+          "choice": {
+            "id": "f9723d01-36a8-4211-88e9-05a508ee01bc",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "09-Templates/书籍模板.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:bookname}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "02-Reading/0_inbox"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "1.6.0",
+  "version": "1.6.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",
