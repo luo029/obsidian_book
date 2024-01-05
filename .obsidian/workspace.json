@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+                "file": "书库.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f826ed3f6c091ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -130,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+                "file": "书库.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md"
+                "file": "书库.md"
               }
             }
           },
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+                "file": "书库.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,21 +179,21 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "c0e4c7449b331318",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "07-Archives/0_读书笔记/中华道藏/中华道藏.md",
     "02-Reading/B_哲学/B84_心理学/中华道藏.md",
-    "07-Archives/0_读书笔记/中华道藏读书笔记/第二章.md",
-    "07-Archives/0_读书笔记/中华道藏读书笔记/第一章.md",
-    "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏.md",
+    "07-Archives/0_读书笔记/中华道藏/第二章.md",
+    "07-Archives/0_读书笔记/中华道藏/第一章.md",
+    "查询书.md",
+    "书库.md",
     "07-Archives/0_读书笔记/中华道藏/未命名看板.md",
     "07-Archives/0_读书笔记/中华道藏/未命名",
-    "书库.md",
     "08-Assets/Scripts/BookLibPath.md",
     "08-Assets/Scripts/button.md",
-    "查询书.md",
     "09-Templates/书籍模板.md",
     "07-Archives/0_读书笔记/中华道藏读书笔记/中华道藏",
-    "07-Archives/0_读书笔记/中华道藏读书笔记",
+    "07-Archives/0_读书笔记/中华道藏",
     "conflict-files-obsidian-git.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
     "07-Archives/0_读书笔记",

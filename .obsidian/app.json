@@ -11,7 +11,7 @@
   "alwaysUpdateLinks": true,
   "foldIndent": true,
   "foldHeading": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "01-Diary/本周事务",
   "fileSortOrder": "alphabetical",
@@ -26,5 +26,6 @@
   "useTab": true,
   "smartIndentList": true,
   "autoConvertHtml": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false
 }
