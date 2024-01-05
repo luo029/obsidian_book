@@ -29,7 +29,7 @@
             "name": "Untitled Template Choice",
             "type": "Template",
             "command": false,
-            "templatePath": "Template/书籍模板.md",
+            "templatePath": "09-Templates/书籍模板.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE:bookname}}"

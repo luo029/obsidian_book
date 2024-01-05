@@ -5,6 +5,14 @@
       "path": "书库.md"
     },
     {
+      "basename": "button",
+      "path": "Script/button.md"
+    },
+    {
+      "basename": "BookLibPath",
+      "path": "Script/BookLibPath.md"
+    },
+    {
       "basename": "查询书",
       "path": "查询书.md"
     },

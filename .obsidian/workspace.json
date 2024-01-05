@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "书库.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -180,8 +180,14 @@
   },
   "active": "293a00eeb2b65e30",
   "lastOpenFiles": [
-    "查询书.md",
+    "新建文件夹",
+    "09-Templates/书籍模板.md",
+    "Script/button.md",
+    "Script/BookLibPath.md",
     "书库.md",
+    "Script/bookfromdouban.js",
+    "Script",
+    "查询书.md",
     "08-Assets/Scripts/dataview表格数据下载.md",
     "00-MOC/每日修持.md",
     "00-MOC/任务看板.md",
@@ -210,19 +216,13 @@
     "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
-    "01-Diary/日志存档/2023-12-23.md",
-    "09-Templates/日志模板.md",
     "00-MOC/未命名.canvas",
-    "09-Templates/代码整理.md",
-    "09-Templates/每周小结.md",
     "08-Assets/Pasted image 20230718164658.png",
     "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏第二册.pdf",
     "08-Assets/Pasted image 20230718165911.png",
     "08-Assets/Pasted image 20230718170012.png",
     "00-MOC/文献阅读白板.canvas",
     "08-Assets/pdfs/2014_-中華道藏.pdf",
-    "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏.pdf",
-    "08-Assets/pdfs",
     "08-Assets/Pasted image 20230718160014.png",
     "08-Assets/Pasted image 20220321142732.png",
     "08-Assets/Pasted image 20220321143352.png",
