@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script/BookLibPath.md",
-                "mode": "source",
+                "file": "08-Assets/Scripts/button.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "Script/BookLibPath.md",
+                "file": "08-Assets/Scripts/button.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script/BookLibPath.md"
+                "file": "08-Assets/Scripts/button.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script/BookLibPath.md",
+                "file": "08-Assets/Scripts/button.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,29 +178,30 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "293a00eeb2b65e30",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "Script/button.md",
     "书库.md",
+    "08-Assets/Scripts/BookLibPath.md",
+    "08-Assets/Scripts/button.md",
+    "书库/F_经济/F4_工业经济",
+    "书库/F_经济",
+    "书库",
+    "书库/F_经济/F4_工业经济/中华道藏.md",
+    "09-Templates/书籍模板.md",
     "查询书.md",
     "书库/A_马克思主义",
     "书库/A_马克思主义/中华道藏.md",
-    "Script/BookLibPath.md",
     "书库/0_inbox/中华道藏.md",
     "书库/B_哲学/B84_心理学/中华道藏.md",
     "书库/B_哲学/B84_心理学",
     "书库/B_哲学",
     "书库/F_经济/F3_农业经济",
-    "书库/F_经济",
     "书库/F_经济/F3_农业经济/中华道藏1.md",
     "01-books/中华道藏.md",
     "书库/A_马克思主义/中华道藏.md",
     "书库/0_inbox",
-    "书库",
     "01-books/0_inbox",
     "01-books",
-    "新建文件夹",
-    "09-Templates/书籍模板.md",
     "08-Assets/Scripts/dataview表格数据下载.md",
     "00-MOC/每日修持.md",
     "00-MOC/任务看板.md",
@@ -215,7 +216,6 @@
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
-    "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名.canvas",
     "08-Assets/Pasted image 20230718164658.png",

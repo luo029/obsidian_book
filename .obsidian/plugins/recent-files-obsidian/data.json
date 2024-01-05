@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "BookLibPath",
-      "path": "Script/BookLibPath.md"
-    },
-    {
       "basename": "button",
-      "path": "Script/button.md"
+      "path": "08-Assets/Scripts/button.md"
     },
     {
       "basename": "书库",
       "path": "书库.md"
+    },
+    {
+      "basename": "BookLibPath",
+      "path": "08-Assets/Scripts/BookLibPath.md"
+    },
+    {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
     },
     {
       "basename": "查询书",
