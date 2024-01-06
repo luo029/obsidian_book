@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "BookLibPath",
-      "path": "08-Assets/Scripts/BookLibPath.md"
+      "basename": "XuanMenRimin2000",
+      "path": "07-Archives/0_读书笔记/XuanMenRimin2000.md"
+    },
+    {
+      "basename": "Xuan men ri song zao wan gong ke jing zhu",
+      "path": "08-Assets/pdfs/Xuan men ri song zao wan gong ke jing zhu.pdf"
+    },
+    {
+      "basename": "书库",
+      "path": "书库.md"
     },
     {
       "basename": "书籍模板",
       "path": "09-Templates/书籍模板.md"
     },
     {
-      "basename": "中华道藏",
-      "path": "02-Reading/0_inbox/中华道藏.md"
+      "basename": "BookLibPath",
+      "path": "08-Assets/Scripts/BookLibPath.md"
     },
     {
-      "basename": "yun ji qi qian",
-      "path": "08-Assets/pdfs/yun ji qi qian.pdf"
+      "basename": "中华道藏",
+      "path": "02-Reading/0_inbox/中华道藏.md"
     },
     {
       "basename": "阅读清单",
@@ -23,10 +31,6 @@
     {
       "basename": "本周事务",
       "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "书库",
-      "path": "书库.md"
     },
     {
       "basename": "查询书",
