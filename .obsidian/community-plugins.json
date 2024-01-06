@@ -18,6 +18,7 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-weread-plugin",
-  "zotlit"
+  "zotlit",
+  "obsidian-git",
+  "easy-typing-obsidian"
 ]
