@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "ZhongHuaDaoCangZhuBianZhangJiYu.2014",
-      "path": "07-Archives/0_读书笔记/ZhongHuaDaoCangZhuBianZhangJiYu.2014.md"
+      "basename": "BookLibPath",
+      "path": "08-Assets/Scripts/BookLibPath.md"
     },
     {
-      "basename": "主編張繼禹. - 2014 - 中華道藏",
-      "path": "08-Assets/pdfs/主編張繼禹. - 2014 - 中華道藏.pdf"
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
+    },
+    {
+      "basename": "中华道藏",
+      "path": "02-Reading/0_inbox/中华道藏.md"
+    },
+    {
+      "basename": "yun ji qi qian",
+      "path": "08-Assets/pdfs/yun ji qi qian.pdf"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
     },
     {
       "basename": "书库",
@@ -17,28 +33,20 @@
       "path": "查询书.md"
     },
     {
-      "basename": "中华道藏",
-      "path": "02-Reading/0_inbox/中华道藏.md"
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
     },
     {
-      "basename": "BookLibPath",
-      "path": "08-Assets/Scripts/BookLibPath.md"
+      "basename": "Mdnotes Default Template",
+      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
     {
       "basename": "任务看板",
       "path": "00-MOC/任务看板.md"
     },
     {
-      "basename": "阅读清单",
-      "path": "00-MOC/阅读清单.md"
-    },
-    {
       "basename": "每日修持",
       "path": "00-MOC/每日修持.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
     },
     {
       "basename": "一时疑惑",
@@ -47,18 +55,6 @@
     {
       "basename": "dataview表格数据下载",
       "path": "08-Assets/Scripts/dataview表格数据下载.md"
-    },
-    {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
-    },
-    {
-      "basename": "button",
-      "path": "08-Assets/Scripts/button.md"
     },
     {
       "basename": "代码整理",
