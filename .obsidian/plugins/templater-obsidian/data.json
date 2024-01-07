@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Template",
+  "templates_folder": "09-Templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "01-Diary/本周事务",
+      "template": "09-Templates/草稿模板.md"
     }
   ],
   "syntax_highlighting": true,

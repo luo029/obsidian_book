@@ -1,1 +1,1 @@
-<%= it.map(lit => `[[${lit.citekey}|(${lit.citekey}, ${lit.date})]]`).join("; ") %>
+<%= it.map(lit => `@${lit.citekey}`).join("; ") %>

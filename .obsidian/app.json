@@ -28,5 +28,6 @@
   "autoConvertHtml": true,
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newLinkFormat": "absolute"
 }

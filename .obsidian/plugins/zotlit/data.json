@@ -2,7 +2,7 @@
   "logLevel": "INFO",
   "citationEditorSuggester": true,
   "showCitekeyInSuggester": false,
-  "literatureNoteFolder": "07-Archives/0_读书笔记",
+  "literatureNoteFolder": "07-Archives/1_zotero笔记",
   "enableServer": true,
   "serverPort": 9091,
   "serverHostname": "127.0.0.1",
