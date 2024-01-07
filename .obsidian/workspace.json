@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "423d2511ef849a74",
+        "id": "851bfc4373233e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "3781f2e16ffc3ced",
+            "id": "fd7cd32097dced09",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "07-Archives/0_读书笔记/XuanMenRimin2000.md"
+                "file": "07-Archives/0_读书笔记/XuanMenRimin2000a.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -116,7 +119,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "07-Archives/0_读书笔记/XuanMenRimin2000.md",
+                "file": "07-Archives/0_读书笔记/XuanMenRimin2000a.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": null
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-Archives/0_读书笔记/XuanMenRimin2000.md"
+                "file": "07-Archives/0_读书笔记/XuanMenRimin2000a.md"
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Archives/0_读书笔记/XuanMenRimin2000.md",
+                "file": "07-Archives/0_读书笔记/XuanMenRimin2000a.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3781f2e16ffc3ced",
+  "active": "fd7cd32097dced09",
   "lastOpenFiles": [
     "08-Assets/pdfs/Xuan men ri song zao wan gong ke jing zhu.pdf",
+    "07-Archives/0_读书笔记/XuanMenRimin2000a.md",
     "07-Archives/0_读书笔记/XuanMenRimin2000.md",
     "书库.md",
     "08-Assets/pdfs/yun ji qi qian.pdf",
@@ -211,7 +216,6 @@
     "07-Archives/0_读书笔记/中华道藏/第一章.md",
     "07-Archives/0_读书笔记/中华道藏/未命名看板.md",
     "conflict-files-obsidian-git.md",
-    "09-Templates/代码整理.md",
     "08-Assets/列表缩进.gif",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名.canvas",
