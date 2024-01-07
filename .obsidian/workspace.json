@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a2d3d1f4b6a566ca",
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -179,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd7cd32097dced09",
+  "active": "91a1e2eb2492518d",
   "lastOpenFiles": [
     "08-Assets/pdfs/Xuan men ri song zao wan gong ke jing zhu.pdf",
     "07-Archives/0_读书笔记/XuanMenRimin2000a.md",
