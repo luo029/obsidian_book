@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a2d3d1f4b6a566ca",
@@ -204,6 +205,7 @@
       "homepage:Open homepage": false
     }
   },
+<<<<<<< HEAD
   "floating": {
     "id": "0ee398a2512b68e9",
     "type": "floating",
@@ -273,6 +275,9 @@
     ]
   },
   "active": "b9b5b7c4aca41304",
+=======
+  "active": "91a1e2eb2492518d",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "04—Watching/movie/楚门的世界.md",
