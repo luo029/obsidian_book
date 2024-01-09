@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "每周小结",
+      "path": "09-Templates/每周小结.md"
+    },
+    {
+      "basename": "电影模板",
+      "path": "09-Templates/电影模板.md"
+    },
+    {
+      "basename": "电视剧模板",
+      "path": "09-Templates/电视剧模板.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
+      "basename": "草稿模板",
+      "path": "09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "楚门的世界",
+      "path": "04—Watching/movie/楚门的世界.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "obsidian修改",
+      "path": "03-Projects/obsidian修改.md"
+    },
+    {
       "basename": "未命名",
       "path": "01-Diary/本周事务/未命名.md"
     },
@@ -33,14 +69,6 @@
       "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md"
     },
     {
-      "basename": "楚门的世界",
-      "path": "04—Watching/movie/楚门的世界.md"
-    },
-    {
-      "basename": "电视剧模板",
-      "path": "09-Templates/电视剧模板.md"
-    },
-    {
       "basename": "Mdnotes Default Template",
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
@@ -65,36 +93,12 @@
       "path": "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md"
     },
     {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
-    },
-    {
       "basename": "楚门的世界",
       "path": "07-Archives/2_观影笔记/movie/楚门的世界/楚门的世界.md"
     },
     {
-      "basename": "每周小结",
-      "path": "09-Templates/每周小结.md"
-    },
-    {
-      "basename": "电影模板",
-      "path": "09-Templates/电影模板.md"
-    },
-    {
       "basename": "待看清单",
       "path": "00-MOC/待看清单.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
-      "basename": "草稿模板",
-      "path": "09-Templates/草稿模板.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
     },
     {
       "basename": "本周事务",

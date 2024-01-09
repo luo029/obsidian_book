@@ -25,12 +25,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/未命名.md",
-                "mode": "source",
+                "file": "09-Templates/日志模板.md",
+                "mode": "preview",
                 "source": true
               }
-            },
-            "group": "adc6c88e5a24784d"
+            }
           }
         ],
         "currentTab": 1
@@ -142,6 +141,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "09-Templates/日志模板.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -160,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "09-Templates/日志模板.md"
+              }
             }
           },
           {
@@ -169,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09-Templates/日志模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,9 +210,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0ffec66b584a736",
+  "active": "5b793d76db97650f",
   "lastOpenFiles": [
+    "09-Templates/每周小结.md",
+    "09-Templates/电影模板.md",
+    "09-Templates/电视剧模板.md",
+    "09-Templates/代码整理.md",
+    "09-Templates/草稿模板.md",
+    "04—Watching/movie/楚门的世界.md",
+    "00-MOC/书库.md",
+    "03-Projects/obsidian修改.md",
     "01-Diary/本周事务/未命名.md",
+    "03-Projects/obsidian修改",
     "01-Diary/本周事务/202401091100.md",
     "01-Diary/本周事务/202401091101.md",
     "08-Assets/Scripts/ThePath.md",
@@ -220,8 +232,6 @@
     "04—Watching/teleplay/是，首相第一季.md",
     "07-Archives/2_观影笔记/teleplay/是，首相第一季/是，首相第一季.md",
     "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md",
-    "04—Watching/movie/楚门的世界.md",
-    "09-Templates/电视剧模板.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
     "07-Archives/2_观影笔记/teleplay",
     "07-Archives/2_观影笔记/movie",
@@ -230,13 +240,7 @@
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md",
-    "00-MOC/书库.md",
     "README.md",
-    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/完整导出项目.md",
-    "08-Assets/Scripts/常用工具.md",
-    "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
-    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md",
-    "03-Projects/98-test/test3.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md"
+    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/完整导出项目.md"
   ]
 }
