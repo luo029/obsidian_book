@@ -30,9 +30,54 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7de4768af86593da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd0547031c7052a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5f2a119689967195"
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "cde53a275ba2f4cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc57f4cae090e5ca",
+            "type": "leaf",
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 1,
+                  "id": "BV18G411z7kK",
+                  "src": "https://www.bilibili.com/video/BV18G411z7kK",
+                  "iframe": "https://player.bilibili.com/player.html?bvid=BV18G411z7kK&high_quality=1&danmaku=0",
+                  "hash": ""
+                },
+                "currentTime": 30.705793
+              }
+            },
+            "group": "5f2a119689967195"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +186,6 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "08-Assets/Scripts/ThePath.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -160,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "08-Assets/Scripts/ThePath.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-Assets/Scripts/ThePath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "dc57f4cae090e5ca",
   "lastOpenFiles": [
+    "01-Diary/本周事务/未命名.md",
+    "01-Diary/本周事务/未命名 1.md",
+    "08-Assets/Scripts/ThePath.md",
     "07-Archives/2_观影笔记/video",
     "09-Templates/书籍模板.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
@@ -221,14 +265,12 @@
     "04—Watching/movie/楚门的世界.md",
     "09-Templates/电视剧模板.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
-    "08-Assets/Scripts/ThePath.md",
     "07-Archives/2_观影笔记/teleplay",
     "07-Archives/2_观影笔记/movie",
     "08-Assets/Scripts/button.md",
     "02-Reading/0_inbox/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
-    "01-Diary/本周事务/未命名.md",
     "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md",
     "00-MOC/书库.md",
     "README.md",

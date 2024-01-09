@@ -11,7 +11,6 @@
   "obsidian-hover-editor",
   "obsidian-kanban",
   "obsidian-linter",
-  "media-extended",
   "mx-bili-plugin",
   "quickadd",
   "recent-files-obsidian",
@@ -24,5 +23,6 @@
   "obsidian-timeline",
   "obsidian-douban-plugin",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "media-extended"
 ]
