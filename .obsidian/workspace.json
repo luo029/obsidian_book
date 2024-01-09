@@ -29,33 +29,11 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "adc6c88e5a24784d"
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c955c7ef4bb30919",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9c06d401942ea9f",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV18G411z7kK",
-                  "src": "https://www.bilibili.com/video/BV18G411z7kK",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV18G411z7kK&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 94.410443
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9c06d401942ea9f",
+  "active": "a0ffec66b584a736",
   "lastOpenFiles": [
     "01-Diary/本周事务/未命名.md",
     "01-Diary/本周事务/202401091100.md",
