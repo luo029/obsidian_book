@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
+      "basename": "ThePath",
+      "path": "08-Assets/Scripts/ThePath.md"
+    },
+    {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
     },
     {
       "basename": "玄门日诵早晚功课经注",
-      "path": "02-Reading/0_inbox/玄门日诵早晚功课经注.md"
+      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "是，首相第一季",
+      "path": "04—Watching/teleplay/是，首相第一季.md"
+    },
+    {
+      "basename": "是，首相第一季",
+      "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/是，首相第一季.md"
+    },
+    {
+      "basename": "第一集",
+      "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md"
     },
     {
       "basename": "楚门的世界",
       "path": "04—Watching/movie/楚门的世界.md"
     },
     {
+      "basename": "电视剧模板",
+      "path": "09-Templates/电视剧模板.md"
+    },
+    {
+      "basename": "Mdnotes Default Template",
+      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
+    },
+    {
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
+    },
+    {
       "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
+      "path": "02-Reading/0_inbox/玄门日诵早晚功课经注.md"
     },
     {
       "basename": "第一章",
       "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md"
     },
     {
-      "basename": "第一集",
-      "path": "07-Archives/2_观影笔记/是，首相第一季/第一集.md"
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
     },
     {
-      "basename": "是，首相第一季",
-      "path": "07-Archives/2_观影笔记/是，首相第一季/是，首相第一季.md"
+      "basename": "未命名",
+      "path": "01-Diary/本周事务/未命名.md"
     },
     {
       "basename": "第一章",
-      "path": "07-Archives/2_观影笔记/楚门的世界/第一章.md"
+      "path": "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
     },
     {
       "basename": "楚门的世界",
-      "path": "07-Archives/2_观影笔记/楚门的世界/楚门的世界.md"
+      "path": "07-Archives/2_观影笔记/movie/楚门的世界/楚门的世界.md"
     },
     {
       "basename": "每周小结",
@@ -47,18 +79,6 @@
     {
       "basename": "待看清单",
       "path": "00-MOC/待看清单.md"
-    },
-    {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
-    },
-    {
-      "basename": "ThePath",
-      "path": "08-Assets/Scripts/ThePath.md"
-    },
-    {
-      "basename": "电视剧模板",
-      "path": "09-Templates/电视剧模板.md"
     },
     {
       "basename": "日志模板",
@@ -93,20 +113,8 @@
       "path": "08-Assets/Scripts/dataview表格数据下载.md"
     },
     {
-      "basename": "button",
-      "path": "08-Assets/Scripts/button.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
-    },
-    {
       "basename": "zt-note.eta",
       "path": "09-Templates/ZtTemplates/zt-note.eta.md"
-    },
-    {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
     {
       "basename": "zt-field.eta",
