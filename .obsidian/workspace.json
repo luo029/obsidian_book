@@ -46,21 +46,21 @@
               "type": "markdown",
               "state": {
                 "file": "01-Diary/本周事务/未命名.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "5f2a119689967195"
+            "group": "dda49f925a3277b4"
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "cde53a275ba2f4cf",
+        "id": "c955c7ef4bb30919",
         "type": "tabs",
         "children": [
           {
-            "id": "dc57f4cae090e5ca",
+            "id": "d9c06d401942ea9f",
             "type": "leaf",
             "state": {
               "type": "media-view",
@@ -72,10 +72,10 @@
                   "iframe": "https://player.bilibili.com/player.html?bvid=BV18G411z7kK&high_quality=1&danmaku=0",
                   "hash": ""
                 },
-                "currentTime": 30.705793
+                "currentTime": 0
               }
             },
-            "group": "5f2a119689967195"
+            "group": "dda49f925a3277b4"
           }
         ]
       }
@@ -186,6 +186,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "01-Diary/本周事务/未命名.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -204,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Diary/本周事务/未命名.md"
+              }
             }
           },
           {
@@ -213,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Diary/本周事务/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +255,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc57f4cae090e5ca",
+  "active": "cd0547031c7052a6",
   "lastOpenFiles": [
     "01-Diary/本周事务/未命名.md",
     "01-Diary/本周事务/未命名 1.md",
