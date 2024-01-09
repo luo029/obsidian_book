@@ -4,47 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "83104ccf69381104",
+        "id": "e53c0c59ef5c05b3",
         "type": "tabs",
         "children": [
           {
-            "id": "77a0bb1d3054c0dc",
+            "id": "bb3efc9cc32deb4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-Templates/电影模板.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e0cb08d57791bf15",
+        "type": "tabs",
+        "children": [
           {
-            "id": "76673bdbb7329eee",
+            "id": "dd97a867c4ebcc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Templates/电影模板.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b9b5b7c4aca41304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04—Watching/movie/楚门的世界.md",
+                "file": "00-MOC/书库.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +45,6 @@
       {
         "id": "66a927cf4be47876",
         "type": "tabs",
-        "dimension": 63.41772151898735,
         "children": [
           {
             "id": "3090910a3bbb4bfa",
@@ -64,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -74,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:obsidian读文献",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -84,15 +72,40 @@
             }
           },
           {
-            "id": "d206ddbf33ef6a31",
+            "id": "af328bc8c7dd1264",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "70357529d74a6f7c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "a2d3d1f4b6a566ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           },
           {
-            "id": "91a1e2eb2492518d",
+            "id": "60ed30d1cc6d4c8d",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -100,26 +113,11 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "a2d3d1f4b6a566ca",
-        "type": "tabs",
-        "dimension": 36.58227848101266,
-        "children": [
-          {
-            "id": "60ed30d1cc6d4c8d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -128,7 +126,7 @@
       {
         "id": "2c47daab7a7f6b09",
         "type": "tabs",
-        "dimension": 61.095372993389994,
+        "dimension": 38.66498740554156,
         "children": [
           {
             "id": "0d92b31ac7bc3511",
@@ -139,25 +137,19 @@
             }
           },
           {
-            "id": "209a991b95d12801",
+            "id": "b4bbb6d3769d62dc",
             "type": "leaf",
             "state": {
-              "type": "zotero-annotation-view",
-              "state": {
-                "file": "04—Watching/movie/楚门的世界.md",
-                "itemId": -1,
-                "attachmentId": -1,
-                "follow": null
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4f101d806a54a17c",
         "type": "tabs",
-        "dimension": 38.904627006610006,
+        "dimension": 61.33501259445844,
         "children": [
           {
             "id": "450ad81cf27a4dff",
@@ -165,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04—Watching/movie/楚门的世界.md"
+                "file": "00-MOC/书库.md"
               }
             }
           },
@@ -175,8 +167,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04—Watching/movie/楚门的世界.md",
-                "collapseAll": true,
+                "file": "00-MOC/书库.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -185,148 +177,46 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b925b1fa789215ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 229
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": true,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": true,
+      "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "workspaces:管理工作区布局": false
     }
   },
-<<<<<<< HEAD
-  "floating": {
-    "id": "0ee398a2512b68e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "13427f3bb331a610",
-        "type": "window",
-        "children": [
-          {
-            "id": "7abb78d2ba374011",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50f2a68be738b0bd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "09-Templates/电影模板.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2494,
-        "y": 300,
-        "width": 1025,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "0d5fae6ce89afca7",
-        "type": "window",
-        "children": [
-          {
-            "id": "cd4ff1e1cffd0ce2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7437329c6790205",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "08-Assets/Scripts/ThePath.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1420,
-        "y": 268,
-        "width": 1026,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "b9b5b7c4aca41304",
-=======
-  "active": "91a1e2eb2492518d",
->>>>>>> origin/main
+  "active": "dd97a867c4ebcc51",
   "lastOpenFiles": [
-    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
-    "04—Watching/movie/楚门的世界.md",
-    "07-Archives/2_观影笔记/楚门的世界/第一章.md",
-    "00-MOC/书库.md",
-    "08-Assets/Scripts/ThePath.md",
-    "09-Templates/书籍模板.md",
-    "09-Templates/电影模板.md",
-    "02-Reading/0_inbox/玄门日诵早晚功课经注.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md",
-    "09-Templates/ZtTemplates/zt-note.eta.md",
-    "08-Assets/Scripts/button.md",
-    "07-Archives/2_观影笔记/楚门的世界/楚门的世界.md",
-    "07-Archives/2_观影笔记/楚门的世界",
-    "04—Watching/movie",
-    "08-Assets/Scripts/Mdnotes Default Template.md",
-    "04—Watching/0_movies/楚门的世界.md",
-    "04—Watching",
-    "07-Archives/2_观影笔记",
-    "02-Reading/book/玄门日诵早晚功课经注.md",
-    "02-Reading/book",
-    "01-Diary/本周事务/{{image}}.md",
-    "01-Diary/本周事务/摘录：楚门的世界.md",
-    "04—Watching/0_movies",
-    "查询书.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注",
-    "07-Archives/1_zotero笔记/Xuan men ri song zao wan gong ke jing zhu.md",
-    "09-Templates/草稿模板.md",
-    "02-Reading/0_inbox/中华道藏.md",
-    "08-Assets/Scripts/dataview表格数据下载.md",
-    "07-Archives/1_zotero笔记",
-    "07-Archives/0_读书笔记/XuanMenRimin2000.md",
-    "08-Assets/pdfs/Xuan men ri song zao wan gong ke jing zhu.pdf",
-    "08-Assets/pdfs/yun ji qi qian.pdf",
-    "08-Assets/列表缩进.gif",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "00-MOC/未命名.canvas",
-    "08-Assets/Pasted image 20230718164658.png",
-    "08-Assets/Pasted image 20230718165911.png",
-    "08-Assets/Pasted image 20230718170012.png",
-    "00-MOC/文献阅读白板.canvas",
-    "08-Assets/Pasted image 20230718160014.png",
-    "08-Assets/Pasted image 20220321142732.png",
-    "08-Assets/Pasted image 20220321143352.png",
-    "08-Assets/Pasted image 20230717203424.png",
-    "08-Assets/Pasted image 20230718142536.png",
-    "08-Assets/Pasted image 20230718144911.png",
-    "00-MOC/obsidian升级内容.canvas"
+    "README.md",
+    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/完整导出项目.md",
+    "08-Assets/Scripts/常用工具.md",
+    "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md",
+    "03-Projects/98-test/test3.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
+    "09-Templates/文件夹目录模板.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/更新日志.md"
   ]
 }
