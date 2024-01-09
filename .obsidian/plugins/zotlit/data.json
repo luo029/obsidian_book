@@ -22,6 +22,6 @@
   "autoRefresh": true,
   "zoteroDataDir": "D:\\zotero_data",
   "citationLibrary": 1,
-  "imgExcerptImport": false,
-  "imgExcerptPath": "ZtImgExcerpt"
+  "imgExcerptImport": "copy",
+  "imgExcerptPath": "08-Assets/images/zotero"
 }

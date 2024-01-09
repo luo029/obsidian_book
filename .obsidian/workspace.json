@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "693fb4d2563cf1c6",
+        "id": "b05fd3e192e3a019",
         "type": "tabs",
         "children": [
           {
-            "id": "9136b19ea257d15e",
+            "id": "161c5c2800b3090a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04—Watching/movie/楚门的世界.md",
+                "file": "00-MOC/书库.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b793d76db97650f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-Templates/日志模板.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,6 +31,7 @@
       {
         "id": "66a927cf4be47876",
         "type": "tabs",
+        "dimension": 70.18140589569161,
         "children": [
           {
             "id": "3090910a3bbb4bfa",
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:obsidian读文献",
+                "query": "脚本",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -91,18 +79,8 @@
       {
         "id": "a2d3d1f4b6a566ca",
         "type": "tabs",
+        "dimension": 29.81859410430839,
         "children": [
-          {
-            "id": "ec1d354533e6cbd2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "60ed30d1cc6d4c8d",
             "type": "leaf",
@@ -111,12 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 200
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -125,10 +102,10 @@
       {
         "id": "2c47daab7a7f6b09",
         "type": "tabs",
-        "dimension": 54.19501133786848,
+        "dimension": 72.22222222222221,
         "children": [
           {
-            "id": "0d92b31ac7bc3511",
+            "id": "dbe5c9901ea43fe9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -141,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "09-Templates/日志模板.md",
+                "file": "00-MOC/书库.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -153,7 +130,7 @@
       {
         "id": "4f101d806a54a17c",
         "type": "tabs",
-        "dimension": 45.80498866213152,
+        "dimension": 27.77777777777778,
         "children": [
           {
             "id": "450ad81cf27a4dff",
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Templates/日志模板.md"
+                "file": "00-MOC/书库.md"
               }
             }
           },
@@ -171,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/日志模板.md",
+                "file": "00-MOC/书库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,12 +171,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -207,40 +182,116 @@
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5b793d76db97650f",
+  "floating": {
+    "id": "8e54b2068eebd7ac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "abfe17e0ca753006",
+        "type": "window",
+        "children": [
+          {
+            "id": "62a9cb5d54ef4c18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "516d19491c5ffbad",
+                "type": "leaf",
+                "state": {
+                  "type": "zotero-template-preview",
+                  "state": {
+                    "file": "09-Templates/ZtTemplates/zt-annot.eta.md",
+                    "preview": {
+                      "docItem": 50,
+                      "attachment": 49,
+                      "annot": 60
+                    }
+                  }
+                },
+                "group": "75dc1324ec234aa2"
+              }
+            ]
+          },
+          {
+            "id": "b15cb86e8142862f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "131137cf5819d78a",
+                "type": "leaf",
+                "state": {
+                  "type": "zotero-item-details",
+                  "state": {
+                    "file": "09-Templates/ZtTemplates/zt-annot.eta.md",
+                    "preview": {
+                      "docItem": 50,
+                      "attachment": 49,
+                      "annot": 60
+                    }
+                  }
+                },
+                "group": "75dc1324ec234aa2"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "161c5c2800b3090a",
   "lastOpenFiles": [
+    "00-MOC/读书清单/2024年读书清单.md",
+    "04-Watching/teleplay/是，首相第一季.md",
+    "04-Watching/movie/楚门的世界.md",
+    "03-Projects/obsidian修改.md",
+    "09-Templates/ZtTemplates/zt-annot.eta.md",
+    "01-Diary/本周事务/未命名 2.md",
+    "09-Templates/ZtTemplates/zt-field.eta.md",
+    "08-Assets/images/zotero/C89AA7DW.png",
+    "08-Assets/images/zotero/ZEC69QCX.png",
+    "08-Assets/images/zotero/RTPEHAPX.png",
+    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+    "01-Diary/本周事务/未命名 1.md",
+    "01-Diary/本周事务/未命名.md",
+    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md",
+    "09-Templates/草稿模板.md",
+    "09-Templates/书籍模板.md",
+    "09-Templates/日志模板.md",
     "09-Templates/每周小结.md",
     "09-Templates/电影模板.md",
     "09-Templates/电视剧模板.md",
     "09-Templates/代码整理.md",
-    "09-Templates/草稿模板.md",
-    "04—Watching/movie/楚门的世界.md",
-    "00-MOC/书库.md",
-    "03-Projects/obsidian修改.md",
-    "01-Diary/本周事务/未命名.md",
-    "03-Projects/obsidian修改",
-    "01-Diary/本周事务/202401091100.md",
-    "01-Diary/本周事务/202401091101.md",
-    "08-Assets/Scripts/ThePath.md",
-    "01-Diary/本周事务/未命名 1.md",
-    "07-Archives/2_观影笔记/video",
-    "09-Templates/书籍模板.md",
-    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
-    "04—Watching/teleplay/是，首相第一季.md",
-    "07-Archives/2_观影笔记/teleplay/是，首相第一季/是，首相第一季.md",
-    "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md",
-    "08-Assets/Scripts/Mdnotes Default Template.md",
-    "07-Archives/2_观影笔记/teleplay",
-    "07-Archives/2_观影笔记/movie",
-    "08-Assets/Scripts/button.md",
-    "02-Reading/0_inbox/玄门日诵早晚功课经注.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md",
+    "ZtImgExcerpt/ZEC69QCX.png",
+    "ZtImgExcerpt/C89AA7DW.png",
+    "08-Assets/images/zotero",
+    "08-Assets/images",
+    "ZtImgExcerpt/RTPEHAPX.png",
+    "ZtImgExcerpt",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
+    "00-MOC/书库.md",
+    "02-Reading/0_inbox/玄门日诵早晚功课经注.md",
     "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md",
-    "README.md",
-    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/完整导出项目.md"
+    "00-MOC/本周事务.md",
+    "01-Diary/本周事务/未命名 8.md",
+    "01-Diary/本周事务/未命名 9.md",
+    "01-Diary/本周事务/未命名 7.md",
+    "00-MOC/读书清单",
+    "04—Watching/game",
+    "03-Projects/obsidian修改",
+    "07-Archives/2_观影笔记/video",
+    "07-Archives/2_观影笔记/teleplay",
+    "07-Archives/2_观影笔记/movie"
   ]
 }

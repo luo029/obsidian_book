@@ -104,6 +104,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "a7f793f1-f008-496e-95c1-78934c4b35a0"
+    },
+    {
+      "id": "41c62eeb-0a23-4885-809e-8bad7be07553",
+      "name": "[脚本]添加影视",
+      "type": "Macro",
+      "command": true,
+      "macroId": "ac8edfdf-5532-481b-8132-303fedd133f0"
     }
   ],
   "macros": [
@@ -171,6 +178,19 @@
             "fileExistsMode": "Increment the file name",
             "setFileExistsBehavior": false
           }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "[脚本]添加影视",
+      "id": "ac8edfdf-5532-481b-8132-303fedd133f0",
+      "commands": [
+        {
+          "name": "Douban: 搜索豆瓣并创建文档",
+          "type": "Obsidian",
+          "id": "526f2a2f-010d-4a15-88cf-3a65a1d4ebf8",
+          "commandId": "obsidian-douban-plugin:searcher-douban-import-and-create-file"
         }
       ],
       "runOnStartup": false
