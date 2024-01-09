@@ -25,35 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Assets/Scripts/ThePath.md",
+                "file": "01-Diary/本周事务/未命名.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "7de4768af86593da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cd0547031c7052a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/未命名.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "dda49f925a3277b4"
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c955c7ef4bb30919",
@@ -72,10 +51,9 @@
                   "iframe": "https://player.bilibili.com/player.html?bvid=BV18G411z7kK&high_quality=1&danmaku=0",
                   "hash": ""
                 },
-                "currentTime": 0
+                "currentTime": 94.410443
               }
-            },
-            "group": "dda49f925a3277b4"
+            }
           }
         ]
       }
@@ -186,7 +164,6 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/未命名.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -205,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Diary/本周事务/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,7 +191,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,11 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd0547031c7052a6",
+  "active": "d9c06d401942ea9f",
   "lastOpenFiles": [
     "01-Diary/本周事务/未命名.md",
-    "01-Diary/本周事务/未命名 1.md",
+    "01-Diary/本周事务/202401091100.md",
+    "01-Diary/本周事务/202401091101.md",
     "08-Assets/Scripts/ThePath.md",
+    "01-Diary/本周事务/未命名 1.md",
     "07-Archives/2_观影笔记/video",
     "09-Templates/书籍模板.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
@@ -283,8 +259,6 @@
     "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
     "03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md",
     "03-Projects/98-test/test3.md",
-    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
-    "09-Templates/文件夹目录模板.md",
-    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md"
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md"
   ]
 }
