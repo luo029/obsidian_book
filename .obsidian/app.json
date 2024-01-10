@@ -24,7 +24,7 @@
   "spellcheck": true,
   "autoPairBrackets": true,
   "useTab": true,
-  "smartIndentList": false,
+  "smartIndentList": true,
   "autoConvertHtml": true,
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
