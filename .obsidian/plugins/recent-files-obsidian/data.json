@@ -5,6 +5,10 @@
       "path": "00-MOC/书库.md"
     },
     {
+      "basename": "zt-annot.eta",
+      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
+    },
+    {
       "basename": "obsidian修改",
       "path": "03-Projects/obsidian修改.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "楚门的世界",
       "path": "04-Watching/movie/楚门的世界.md"
-    },
-    {
-      "basename": "zt-annot.eta",
-      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
     },
     {
       "basename": "未命名 2",
