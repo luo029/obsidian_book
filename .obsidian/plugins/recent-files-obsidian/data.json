@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
+      "basename": "澄清韵",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "待看清单",
+      "path": "00-MOC/待看清单.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "00-MOC/任务看板.md"
     },
     {
       "basename": "书库",
       "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "一时疑惑",
+      "path": "00-MOC/一时疑惑.md"
+    },
+    {
+      "basename": "todo",
+      "path": "00-MOC/todo.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "正統道藏",
+      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
+    },
+    {
+      "basename": "2024年读书清单",
+      "path": "00-MOC/读书清单/2024年读书清单.md"
+    },
+    {
+      "basename": "正统道藏",
+      "path": "07-Archives/0_读书笔记/正统道藏/正统道藏.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
+    },
+    {
+      "basename": "ThePath",
+      "path": "08-Assets/Scripts/ThePath.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
+    },
+    {
+      "basename": "dataview表格数据下载",
+      "path": "08-Assets/Scripts/dataview表格数据下载.md"
+    },
+    {
+      "basename": "Mdnotes Default Template",
+      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
     {
       "basename": "zt-annot.eta",
@@ -17,20 +85,12 @@
       "path": "03-Projects/obsidian修改.md"
     },
     {
-      "basename": "2024年读书清单",
-      "path": "00-MOC/读书清单/2024年读书清单.md"
-    },
-    {
       "basename": "是，首相第一季",
       "path": "04-Watching/teleplay/是，首相第一季.md"
     },
     {
       "basename": "楚门的世界",
       "path": "04-Watching/movie/楚门的世界.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "01-Diary/本周事务/未命名 2.md"
     },
     {
       "basename": "zt-field.eta",
@@ -49,28 +109,8 @@
       "path": "08-Assets/images/zotero/RTPEHAPX.png"
     },
     {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "01-Diary/本周事务/未命名 1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01-Diary/本周事务/未命名.md"
-    },
-    {
-      "basename": "第一章",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/第一章.md"
-    },
-    {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
     },
     {
       "basename": "每周小结",
@@ -93,44 +133,8 @@
       "path": "ZtImgExcerpt/ZEC69QCX.png"
     },
     {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "02-Reading/0_inbox/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "00-MOC/任务看板.md"
-    },
-    {
-      "basename": "待看清单",
-      "path": "00-MOC/待看清单.md"
-    },
-    {
-      "basename": "一时疑惑",
-      "path": "00-MOC/一时疑惑.md"
-    },
-    {
-      "basename": "todo",
-      "path": "00-MOC/todo.md"
-    },
-    {
       "basename": "西游记",
       "path": "04-Watching/teleplay/西游记.md"
-    },
-    {
-      "basename": "ThePath",
-      "path": "08-Assets/Scripts/ThePath.md"
-    },
-    {
-      "basename": "button",
-      "path": "08-Assets/Scripts/button.md"
     },
     {
       "basename": "是，首相第一季",
@@ -141,20 +145,12 @@
       "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md"
     },
     {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
       "basename": "第一章",
       "path": "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md"
     },
     {
       "basename": "楚门的世界",
       "path": "07-Archives/2_观影笔记/movie/楚门的世界/楚门的世界.md"
-    },
-    {
-      "basename": "dataview表格数据下载",
-      "path": "08-Assets/Scripts/dataview表格数据下载.md"
     },
     {
       "basename": "zt-note.eta",
