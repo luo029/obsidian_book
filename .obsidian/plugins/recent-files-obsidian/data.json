@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
+    },
+    {
       "basename": "书库",
       "path": "00-MOC/书库.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
-    },
-    {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
     },
     {
       "basename": "日志模板",
