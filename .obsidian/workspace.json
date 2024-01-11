@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/本周事务.md",
-                "mode": "source",
+                "file": "01-Diary/本周事务/澄清韵.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/本周事务.md",
+                "file": "01-Diary/本周事务/澄清韵.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/本周事务.md"
+                "file": "01-Diary/本周事务/澄清韵.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/本周事务.md",
+                "file": "01-Diary/本周事务/澄清韵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,16 +198,16 @@
   },
   "active": "dd7c9f210ff88ede",
   "lastOpenFiles": [
-    "00-MOC/待看清单.md",
-    "00-MOC/任务看板.md",
     "00-MOC/todo.md",
-    "00-MOC/一时疑惑.md",
-    "00-MOC/书库.md",
+    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "00-MOC/本周事务.md",
     "01-Diary/本周事务/澄清韵.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+    "00-MOC/待看清单.md",
+    "00-MOC/任务看板.md",
+    "00-MOC/一时疑惑.md",
+    "00-MOC/书库.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
-    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "01-Diary/本周事务/未命名 2.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
     "00-MOC/读书清单/2024年读书清单.md",
