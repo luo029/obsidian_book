@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
       "basename": "澄清韵",
       "path": "01-Diary/本周事务/澄清韵.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "任务看板",
       "path": "00-MOC/任务看板.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
     },
     {
       "basename": "一时疑惑",
