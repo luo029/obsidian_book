@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
-    },
-    {
       "basename": "澄清韵",
       "path": "01-Diary/本周事务/澄清韵.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "玄门日诵早晚功课经注",
       "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
     },
     {
       "basename": "本周事务",
@@ -35,10 +39,6 @@
     {
       "basename": "todo",
       "path": "00-MOC/todo.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
     },
     {
       "basename": "正統道藏",
