@@ -125,9 +125,16 @@
                 "follow": null
               }
             }
+          },
+          {
+            "id": "91cdeafcf4fa2e0d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4f101d806a54a17c",
@@ -173,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
