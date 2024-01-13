@@ -53,8 +53,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
-                "mode": "source",
+                "file": "09-Templates/书籍模板.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+                "file": "09-Templates/书籍模板.md",
                 "itemId": 69,
                 "attachmentId": 68,
                 "follow": null
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
+                "file": "09-Templates/书籍模板.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+                "file": "09-Templates/书籍模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,13 @@
   },
   "active": "5ef02b29387aa4ec",
   "lastOpenFiles": [
+    "09-Templates/日志模板.md",
+    "07-Archives/4_语录/玄言玄语.md",
+    "07-Archives/4_语录",
+    "00-MOC/本周事务.md",
+    "07-Archives/4_语录",
+    "04-Watching/未命名",
+    "00-MOC/待看清单.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
@@ -239,7 +246,6 @@
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
     "01-Diary/本周事务/澄清韵.md",
-    "00-MOC/本周事务.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
     "02-Reading/1_期刊",
     "07-Archives/1_zotero笔记/弘道.md",
@@ -257,21 +263,15 @@
     "09-Templates/电影模板.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏.md",
-    "00-MOC/待看清单.md",
     "00-MOC/读书清单/2024年读书清单.md",
     "00-MOC/书库.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "00-MOC/一时疑惑.md",
     "01-Diary/本周事务/未命名 2.md",
     "07-Archives/0_读书笔记/正统道藏",
-    "07-Archives/0_读书笔记/未命名.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教",
-    "02-Reading/B_哲学、宗教/B9宗教",
-    "02-Reading/B_哲学、宗教",
-    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注1.md",
-    "08-Assets - 副本/Scripts/bookfromdouban.js",
     "08-Assets - 副本/images/zotero/C89AA7DW.png",
     "08-Assets - 副本/images/zotero/ZEC69QCX.png",
     "08-Assets - 副本/images/zotero/RTPEHAPX.png",
