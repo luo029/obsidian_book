@@ -195,10 +195,6 @@
     {
       "basename": "zt-cite.eta",
       "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
-    },
-    {
-      "basename": "zt-cite2.eta",
-      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,7 @@
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "09-Templates/草稿模板.md"
+        "template": "09-Templates/日志模板.md"
       },
       "format": {
         "enabled": true,
@@ -127,7 +127,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "\\n1.  > {{VALUE:⏱️记录}}\n"
+        "format": "\\n1.  > {{VALUE:记录}}\n\n "
       },
       "insertAfter": {
         "enabled": false,
