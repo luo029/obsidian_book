@@ -11,15 +11,34 @@
             "id": "980f599b9a95cf03",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00-MOC/任务看板.md"
+              }
+            }
+          },
+          {
+            "id": "684a27705ebb2adf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe6f69de51754f2a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
-                "mode": "preview",
+                "file": "01-Diary/本周事务/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50043487548828
+    "width": 233.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -118,23 +138,14 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
-                "itemId": 50,
-                "attachmentId": 49,
+                "file": "01-Diary/本周事务/未命名.md",
+                "itemId": 69,
+                "attachmentId": 68,
                 "follow": null
               }
             }
-          },
-          {
-            "id": "91cdeafcf4fa2e0d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4f101d806a54a17c",
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
+                "file": "01-Diary/本周事务/未命名.md"
               }
             }
           },
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
+                "file": "01-Diary/本周事务/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,30 +208,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c288782e5824c2c7",
+  "active": "fe6f69de51754f2a",
   "lastOpenFiles": [
-    "09-Templates/ZtTemplates/zt-note.eta.md",
+    "01-Diary/本周事务/未命名.md",
+    "00-MOC/任务看板.md",
+    "00-MOC/todo.md",
+    "01-Diary/本周事务/澄清韵.md",
+    "00-MOC/本周事务.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
+    "09-Templates/ZtTemplates/zt-note.eta.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "08-Assets/images/zotero/C89AA7DW.png",
     "07-Archives/1_zotero笔记/正統道藏.md",
     "08-Assets/images/zotero/RTPEHAPX.png",
     "08-Assets/images/zotero/XFHN8L6V.png",
     "08-Assets/images/zotero/NDITDS6H.png",
-    "00-MOC/todo.md",
     "08-Assets/images/zotero/ZEC69QCX.png",
     "09-Templates/书籍模板.md",
     "09-Templates/电影模板.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏.md",
-    "01-Diary/本周事务/澄清韵.md",
     "00-MOC/待看清单.md",
     "00-MOC/读书清单/2024年读书清单.md",
-    "00-MOC/本周事务.md",
     "00-MOC/书库.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
-    "00-MOC/任务看板.md",
     "00-MOC/一时疑惑.md",
     "01-Diary/本周事务/未命名 2.md",
     "07-Archives/0_读书笔记/正统道藏",
@@ -234,7 +247,6 @@
     "08-Assets/Scripts/ThePath.md",
     "09-Templates/日志模板.md",
     "08-Assets - 副本/Scripts/Mdnotes Default Template.md",
-    "08-Assets - 副本/Scripts/ThePath.md",
     "08-Assets - 副本/Scripts/bookfromdouban.js",
     "08-Assets - 副本/Scripts",
     "08-Assets - 副本/pdfs",
