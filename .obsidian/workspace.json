@@ -33,14 +33,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1694c51e16280f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ef02b29387aa4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +159,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
                 "itemId": 69,
                 "attachmentId": 68,
                 "follow": null
@@ -159,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md"
+                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
               }
             }
           },
@@ -169,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,20 +229,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7aac9dfb7cdb9d2",
+  "active": "5ef02b29387aa4ec",
   "lastOpenFiles": [
+    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+    "07-Archives/3_文章/道教",
+    "07-Archives/3_文章",
+    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
     "01-Diary/本周事务/澄清韵.md",
     "00-MOC/本周事务.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
-    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "02-Reading/1_期刊",
     "07-Archives/1_zotero笔记/弘道.md",
     "07-Archives/1_zotero笔记.md",
     "00-MOC/任务看板.md",
     "00-MOC/todo.md",
     "09-Templates/ZtTemplates/zt-note.eta.md",
-    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "08-Assets/images/zotero/C89AA7DW.png",
     "07-Archives/1_zotero笔记/正統道藏.md",
     "08-Assets/images/zotero/RTPEHAPX.png",
@@ -231,7 +255,6 @@
     "08-Assets/images/zotero/ZEC69QCX.png",
     "09-Templates/书籍模板.md",
     "09-Templates/电影模板.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏.md",
     "00-MOC/待看清单.md",
@@ -249,8 +272,6 @@
     "02-Reading/B_哲学、宗教",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注1.md",
     "08-Assets - 副本/Scripts/bookfromdouban.js",
-    "08-Assets - 副本/Scripts",
-    "08-Assets - 副本/pdfs",
     "08-Assets - 副本/images/zotero/C89AA7DW.png",
     "08-Assets - 副本/images/zotero/ZEC69QCX.png",
     "08-Assets - 副本/images/zotero/RTPEHAPX.png",
