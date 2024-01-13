@@ -11,8 +11,12 @@
             "id": "202edf584849c867",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/澄清韵.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "01-Diary/本周事务/澄清韵.md",
                 "itemId": 69,
                 "attachmentId": 68,
                 "follow": null
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Diary/本周事务/澄清韵.md"
+              }
             }
           },
           {
@@ -141,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Diary/本周事务/澄清韵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "202edf584849c867",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
     "07-Archives/4_语录/玄言玄语.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
