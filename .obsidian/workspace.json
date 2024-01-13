@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3075ee9fda7047",
+        "id": "0254c4ef8e49e0db",
         "type": "tabs",
         "children": [
           {
-            "id": "980f599b9a95cf03",
+            "id": "202edf584849c867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-Archives/4_语录/玄言玄语.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脚本",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +114,6 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "07-Archives/4_语录/玄言玄语.md",
                 "itemId": 69,
                 "attachmentId": 68,
                 "follow": null
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "07-Archives/4_语录/玄言玄语.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Archives/4_语录/玄言玄语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "980f599b9a95cf03",
+  "active": "202edf584849c867",
   "lastOpenFiles": [
-    "01-Diary/本周事务/澄清韵.md",
     "07-Archives/4_语录/玄言玄语.md",
+    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+    "01-Diary/本周事务/澄清韵.md",
+    "01-Diary/本周事务/早晚功课经浅谈.md",
+    "00-MOC/书库.md",
     "01-Diary/本周事务/2024-01-13.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "07-Archives/1_zotero笔记/正統道藏.md",
@@ -203,10 +198,8 @@
     "07-Archives/4_语录",
     "04-Watching/未命名",
     "00-MOC/待看清单.md",
-    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "07-Archives/3_文章/道教",
     "07-Archives/3_文章",
-    "01-Diary/本周事务/早晚功课经浅谈.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
     "02-Reading/1_期刊",
     "07-Archives/1_zotero笔记/弘道.md",
@@ -223,7 +216,6 @@
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏.md",
     "00-MOC/读书清单/2024年读书清单.md",
-    "00-MOC/书库.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "00-MOC/一时疑惑.md",
     "07-Archives/0_读书笔记/正统道藏",

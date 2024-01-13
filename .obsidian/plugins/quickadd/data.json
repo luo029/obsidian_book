@@ -130,8 +130,8 @@
         "format": "\\n1.  > {{VALUE:记录}}\n\n "
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "# 寻章摘句：",
         "insertAtEnd": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
