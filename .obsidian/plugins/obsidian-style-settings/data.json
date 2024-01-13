@@ -1,5 +1,8 @@
 {
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
   "blue-topaz-theme@@disable-auto-hide-header": true,
-  "blue-topaz-theme@@hide-vault-name": true
+  "blue-topaz-theme@@hide-vault-name": true,
+  "minimal-style@@image-radius": 4,
+  "minimal-style@@image-muted": 0.7,
+  "minimal-style@@image-blend-light": false
 }

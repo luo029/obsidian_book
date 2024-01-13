@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
+      "basename": "正統道藏",
+      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
     },
     {
-      "basename": "澄清韵",
-      "path": "01-Diary/本周事务/澄清韵.md"
+      "basename": "zt-note.eta",
+      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "C89AA7DW",
+      "path": "08-Assets/images/zotero/C89AA7DW.png"
+    },
+    {
+      "basename": "正統道藏",
+      "path": "07-Archives/1_zotero笔记/正統道藏.md"
+    },
+    {
+      "basename": "RTPEHAPX",
+      "path": "08-Assets/images/zotero/RTPEHAPX.png"
+    },
+    {
+      "basename": "XFHN8L6V",
+      "path": "08-Assets/images/zotero/XFHN8L6V.png"
+    },
+    {
+      "basename": "NDITDS6H",
+      "path": "08-Assets/images/zotero/NDITDS6H.png"
     },
     {
       "basename": "todo",
       "path": "00-MOC/todo.md"
     },
     {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
+      "basename": "ZEC69QCX",
+      "path": "08-Assets/images/zotero/ZEC69QCX.png"
+    },
+    {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
+    },
+    {
+      "basename": "电影模板",
+      "path": "09-Templates/电影模板.md"
     },
     {
       "basename": "澄清韵",
       "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
     },
     {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "正统道藏",
+      "path": "07-Archives/0_读书笔记/正统道藏/正统道藏.md"
+    },
+    {
+      "basename": "澄清韵",
+      "path": "01-Diary/本周事务/澄清韵.md"
+    },
+    {
       "basename": "待看清单",
       "path": "00-MOC/待看清单.md"
+    },
+    {
+      "basename": "2024年读书清单",
+      "path": "00-MOC/读书清单/2024年读书清单.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
     },
     {
       "basename": "任务看板",
@@ -34,31 +90,7 @@
     },
     {
       "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
       "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "正統道藏",
-      "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
-    },
-    {
-      "basename": "2024年读书清单",
-      "path": "00-MOC/读书清单/2024年读书清单.md"
-    },
-    {
-      "basename": "正统道藏",
-      "path": "07-Archives/0_读书笔记/正统道藏/正统道藏.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
     },
     {
       "basename": "ThePath",
@@ -101,28 +133,12 @@
       "path": "09-Templates/ZtTemplates/zt-field.eta.md"
     },
     {
-      "basename": "C89AA7DW",
-      "path": "08-Assets/images/zotero/C89AA7DW.png"
-    },
-    {
-      "basename": "ZEC69QCX",
-      "path": "08-Assets/images/zotero/ZEC69QCX.png"
-    },
-    {
-      "basename": "RTPEHAPX",
-      "path": "08-Assets/images/zotero/RTPEHAPX.png"
-    },
-    {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
     },
     {
       "basename": "每周小结",
       "path": "09-Templates/每周小结.md"
-    },
-    {
-      "basename": "电影模板",
-      "path": "09-Templates/电影模板.md"
     },
     {
       "basename": "电视剧模板",
@@ -155,10 +171,6 @@
     {
       "basename": "楚门的世界",
       "path": "07-Archives/2_观影笔记/movie/楚门的世界/楚门的世界.md"
-    },
-    {
-      "basename": "zt-note.eta",
-      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
     },
     {
       "basename": "zt-annots.eta",
