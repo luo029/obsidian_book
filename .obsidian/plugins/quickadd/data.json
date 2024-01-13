@@ -127,7 +127,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "\\n- <% tp.date.now(\"HH:mm\") %> {{VALUE:⏱️记录}}\n"
+        "format": "\\n1.  > {{VALUE:⏱️记录}}\n"
       },
       "insertAfter": {
         "enabled": false,
