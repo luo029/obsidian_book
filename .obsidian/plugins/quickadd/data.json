@@ -100,21 +100,28 @@
     },
     {
       "id": "18266a2d-7eb5-4c49-9ba7-c2d2bbba8a37",
-      "name": "[脚本]添加书籍",
+      "name": "📝添加书籍",
       "type": "Macro",
       "command": true,
       "macroId": "a7f793f1-f008-496e-95c1-78934c4b35a0"
     },
     {
       "id": "41c62eeb-0a23-4885-809e-8bad7be07553",
-      "name": "[脚本]添加影视",
+      "name": "📝添加影视",
       "type": "Macro",
       "command": true,
       "macroId": "ac8edfdf-5532-481b-8132-303fedd133f0"
     },
     {
+      "id": "d67e8c19-7881-44fc-b3b5-c00198237a5d",
+      "name": "📝添加期刊",
+      "type": "Macro",
+      "command": true,
+      "macroId": "5b2f89c6-e47f-41bb-8c72-5790328cf115"
+    },
+    {
       "id": "0af4973b-f459-4fd7-9070-e8d722ea0b63",
-      "name": "微言",
+      "name": "📝微言",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -145,13 +152,6 @@
       },
       "openFile": false,
       "openFileInMode": "default"
-    },
-    {
-      "id": "d67e8c19-7881-44fc-b3b5-c00198237a5d",
-      "name": "[脚本]添加杂篇",
-      "type": "Macro",
-      "command": true,
-      "macroId": "5b2f89c6-e47f-41bb-8c72-5790328cf115"
     }
   ],
   "macros": [
@@ -237,16 +237,16 @@
       "runOnStartup": false
     },
     {
-      "name": "[脚本]添加杂篇",
+      "name": "[脚本]添加期刊",
       "id": "5b2f89c6-e47f-41bb-8c72-5790328cf115",
       "commands": [
         {
-          "name": "杂篇名字",
+          "name": "标题",
           "type": "NestedChoice",
           "id": "2e5ba9a9-ab4e-4fce-bd2a-29d23c71c148",
           "choice": {
             "id": "df7291b1-0697-4f06-b6e5-cedc4dd9d9f4",
-            "name": "杂篇名字",
+            "name": "标题",
             "type": "Template",
             "command": false,
             "templatePath": "09-Templates/期刊模板.md",
