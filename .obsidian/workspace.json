@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/本周事务.md",
+                "file": "00-MOC/主页.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -131,14 +131,14 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/本周事务.md",
-                "itemId": 105,
-                "attachmentId": 99,
+                "itemId": 50,
+                "attachmentId": 49,
                 "follow": null
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4f101d806a54a17c",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/本周事务.md"
+                "file": "00-MOC/Drawing 2024-01-14 19.23.06.excalidraw.md"
               }
             }
           },
@@ -161,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/本周事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,26 +196,35 @@
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "afbd9f5ec68fe05b",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "00-MOC/Drawing 2024-01-14 19.24.38.excalidraw.md",
+    "00-MOC/主页.md",
+    "00-MOC/Drawing 2024-01-14 19.23.06.excalidraw.md",
+    "00-MOC/Drawing 2024-01-14 19.20.59.excalidraw.md",
+    "01-Diary/本周事务/澄清韵.md",
+    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+    "07-Archives/1_zotero笔记/正統道藏24.md",
+    "07-Archives/1_zotero笔记/正統道藏1.md",
+    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
+    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
+    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+    "00-MOC/本周事务.md",
     "00-MOC/todo.md",
     "00-MOC/待看清单.md",
-    "00-MOC/主页.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
     "00-MOC/书库.md",
     "未命名",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/略谈玄门日诵早晚功课经.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",
-    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "09-Templates/期刊模板.md",
-    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/1.md",
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md",
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/2.md",
-    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "02-Reading/1_期刊/0_inbox",
     "02-Reading/1_期刊",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引",
@@ -229,14 +237,6 @@
     "02-Reading/undefined有关玄门日诵早晚功课经的访谈.md",
     "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md",
     "09-Templates/书籍模板.md",
-    "02-Reading/1_期刊/0_inbox/ceshi .md",
-    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
-    "02-Reading/1_期刊/0_inbox/测试.md",
-    "09-Templates/日志模板.md",
-    "07-Archives/0_读书笔记/正统道藏/正统道藏1/正统道藏1.md",
-    "08-Assets/Scripts/ThePath.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈",
     "08-Assets/images/zotero/5JRQXZKE.png",
     "08-Assets/images/zotero/6VWU9HX2.png",
