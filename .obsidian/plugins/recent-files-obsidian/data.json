@@ -1,36 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "zt-annot.eta 1",
-      "path": "09-Templates/zt-annot.eta 1.md"
+      "basename": "zt-field.eta",
+      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
     },
     {
       "basename": "zt-note.eta",
       "path": "09-Templates/ZtTemplates/zt-note.eta.md"
     },
     {
-      "basename": "zt-annot.eta",
-      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
-    },
-    {
-      "basename": "zt-field.eta",
-      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
-    },
-    {
       "basename": "zt-colored.eta",
       "path": "09-Templates/ZtTemplates/zt-colored.eta.md"
-    },
-    {
-      "basename": "zt-cite2.eta",
-      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
     },
     {
       "basename": "zt-cite.eta",
       "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
     },
     {
+      "basename": "zt-cite2.eta",
+      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
+    },
+    {
+      "basename": "zt-annot.eta",
+      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
+    },
+    {
       "basename": "zt-annots.eta",
       "path": "09-Templates/ZtTemplates/zt-annots.eta.md"
+    },
+    {
+      "basename": "zt-annot.eta 1",
+      "path": "09-Templates/zt-annot.eta 1.md"
+    },
+    {
+      "basename": "正統道藏24",
+      "path": "07-Archives/1_zotero笔记/正統道藏24.md"
+    },
+    {
+      "basename": "正統道藏1",
+      "path": "07-Archives/1_zotero笔记/正統道藏1.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "略谈玄门日诵早晚功课经",
+      "path": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
     },
     {
       "basename": "早晚功课经浅谈",
@@ -47,30 +71,6 @@
     {
       "basename": "玄言玄语",
       "path": "07-Archives/4_语录/玄言玄语.md"
-    },
-    {
-      "basename": "正統道藏1",
-      "path": "07-Archives/1_zotero笔记/正統道藏1.md"
-    },
-    {
-      "basename": "正統道藏24",
-      "path": "07-Archives/1_zotero笔记/正統道藏24.md"
-    },
-    {
-      "basename": "略谈玄门日诵早晚功课经",
-      "path": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "有关玄门日诵早晚功课经的访谈",
-      "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
     },
     {
       "basename": "澄清韵",
