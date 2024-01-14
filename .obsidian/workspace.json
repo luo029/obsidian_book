@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6eea8e7a964a5a",
+        "id": "73e2c1fe6809c1ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c6bab0565388e3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-MOC/书库.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afbd9f5ec68fe05b",
+            "id": "552fe0e43c174cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4f101d806a54a17c",
@@ -185,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +189,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "afbd9f5ec68fe05b",
+  "active": "552fe0e43c174cde",
   "lastOpenFiles": [
-    "00-MOC/未命名.canvas",
+    "00-MOC/一时疑惑.md",
     "00-MOC/主页.md",
+    "00-MOC/书库.md",
+    "00-MOC/未命名.canvas",
     "01-Diary/本周事务/未命名.md",
     "00-MOC/未命名看板.md",
     "00-MOC/任务看板.md",
@@ -223,7 +212,6 @@
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "00-MOC/本周事务.md",
     "00-MOC/todo.md",
-    "00-MOC/书库.md",
     "未命名",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/略谈玄门日诵早晚功课经.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",

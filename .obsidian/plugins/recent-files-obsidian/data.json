@@ -5,6 +5,14 @@
       "path": "00-MOC/主页.md"
     },
     {
+      "basename": "一时疑惑",
+      "path": "00-MOC/一时疑惑.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
       "basename": "全真道日誦《早晚功課經》版本探源",
       "path": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "todo",
       "path": "00-MOC/todo.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
     },
     {
       "basename": "略谈玄门日诵早晚功课经",
