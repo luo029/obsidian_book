@@ -164,5 +164,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "e"
+    }
   ]
 }
