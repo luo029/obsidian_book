@@ -145,6 +145,13 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "d67e8c19-7881-44fc-b3b5-c00198237a5d",
+      "name": "[脚本]添加杂篇",
+      "type": "Macro",
+      "command": true,
+      "macroId": "5b2f89c6-e47f-41bb-8c72-5790328cf115"
     }
   ],
   "macros": [
@@ -225,6 +232,48 @@
           "type": "Obsidian",
           "id": "526f2a2f-010d-4a15-88cf-3a65a1d4ebf8",
           "commandId": "obsidian-douban-plugin:searcher-douban-import-and-create-file"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "[脚本]添加杂篇",
+      "id": "5b2f89c6-e47f-41bb-8c72-5790328cf115",
+      "commands": [
+        {
+          "name": "杂篇名字",
+          "type": "NestedChoice",
+          "id": "2e5ba9a9-ab4e-4fce-bd2a-29d23c71c148",
+          "choice": {
+            "id": "df7291b1-0697-4f06-b6e5-cedc4dd9d9f4",
+            "name": "杂篇名字",
+            "type": "Template",
+            "command": false,
+            "templatePath": "09-Templates/期刊模板.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "02-Reading/1_期刊/0_inbox"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
         }
       ],
       "runOnStartup": false

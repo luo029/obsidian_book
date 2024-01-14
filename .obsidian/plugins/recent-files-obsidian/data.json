@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "期刊模板",
-      "path": "09-Templates/期刊模板.md"
+      "basename": "有关玄门日诵早晚功课经的访谈1",
+      "path": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md"
     },
     {
-      "basename": "书籍模板",
-      "path": "09-Templates/书籍模板.md"
+      "basename": "ThePath",
+      "path": "08-Assets/Scripts/ThePath.md"
     },
     {
-      "basename": "有关玄门日诵早晚功课经的访谈",
-      "path": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md"
-    },
-    {
-      "basename": "有关玄门日诵早晚功课经的访谈",
-      "path": "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md"
+      "basename": "测试",
+      "path": "02-Reading/1_期刊/0_inbox/测试.md"
     },
     {
       "basename": "1",
-      "path": "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/1.md"
+      "path": "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/1.md"
+    },
+    {
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "2",
+      "path": "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/2.md"
     },
     {
       "basename": "澄清韵",
       "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
     },
     {
-      "basename": "有关玄门日诵早晚功课经的访谈",
-      "path": "02-Reading/1_期刊/0_inbox/有关玄门日诵早晚功课经的访谈.md"
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "《玄门日诵早晚功课经》与正一道教",
+      "path": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "期刊模板",
+      "path": "09-Templates/期刊模板.md"
+    },
+    {
+      "basename": "书籍模板",
+      "path": "09-Templates/书籍模板.md"
     },
     {
       "basename": "日志模板",
@@ -49,10 +69,6 @@
       "path": "01-Diary/本周事务/澄清韵.md"
     },
     {
-      "basename": "《玄门日诵早晚功课经》与正一道教",
-      "path": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
-    },
-    {
       "basename": "有关玄门日诵早晚功课经的访谈",
       "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "丛林早晚课诵的修订与流行",
       "path": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
     },
     {
       "basename": "button",
@@ -169,10 +181,6 @@
       "path": "08-Assets/images/zotero/NDITDS6H.png"
     },
     {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md"
-    },
-    {
       "basename": "正统道藏1",
       "path": "07-Archives/0_读书笔记/正统道藏/正统道藏1/正统道藏1.md"
     },
@@ -189,16 +197,8 @@
       "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
     },
     {
-      "basename": "ThePath",
-      "path": "08-Assets/Scripts/ThePath.md"
-    },
-    {
       "basename": "dataview表格数据下载",
       "path": "08-Assets/Scripts/dataview表格数据下载.md"
-    },
-    {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     }
   ],
   "omittedPaths": [],

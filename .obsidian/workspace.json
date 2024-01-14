@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc34515f8b5ed13",
+        "id": "2e55121b73a5886f",
         "type": "tabs",
         "children": [
           {
-            "id": "ece2246b004b9ce2",
+            "id": "82f5d4000199a8c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Templates/期刊模板.md",
-                "mode": "source",
+                "file": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "09-Templates/期刊模板.md",
+                "file": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md",
                 "itemId": 105,
                 "attachmentId": 99,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Templates/期刊模板.md"
+                "file": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/期刊模板.md",
+                "file": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,23 +187,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ece2246b004b9ce2",
+  "active": "82f5d4000199a8c5",
   "lastOpenFiles": [
-    "09-Templates/书籍模板.md",
-    "09-Templates/期刊模板.md",
-    "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md",
-    "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/1.md",
-    "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md",
-    "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈",
-    "07-Archives/0_读书笔记/弘道",
+    "08-Assets/Scripts/ThePath.md",
+    "02-Reading/1_期刊/0_inbox/测试.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/1.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/2.md",
+    "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈1.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/玄门日诵早晚功课经注.md",
+    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+    "00-MOC/书库.md",
     "02-Reading/1_期刊/0_inbox/有关玄门日诵早晚功课经的访谈.md",
+    "09-Templates/期刊模板.md",
+    "02-Reading/1_期刊/弘道/123.md",
+    "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md",
+    "09-Templates/书籍模板.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈",
+    "07-Archives/0_读书笔记/弘道",
     "09-Templates/日志模板.md",
     "09-Templates/电影模板.md",
     "09-Templates/每周小结.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
     "01-Diary/本周事务/澄清韵.md",
-    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "02-Reading/1_期刊/0_inbox",
     "02-Reading/undefined未命名.md",
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
@@ -211,15 +218,9 @@
     "02-Reading/1_期刊",
     "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
     "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
-    "00-MOC/书库.md",
     "08-Assets/Scripts/button.md",
     "00-MOC/读书清单/2024年读书清单.md",
-    "00-MOC/本周事务.md",
     "00-MOC/读书清单",
-    "00-MOC/待看清单.md",
-    "00-MOC/任务看板.md",
-    "00-MOC/一时疑惑.md",
-    "00-MOC/todo.md",
     "00-MOC",
     "08-Assets/images/zotero/5JRQXZKE.png",
     "08-Assets/images/zotero/6VWU9HX2.png",
