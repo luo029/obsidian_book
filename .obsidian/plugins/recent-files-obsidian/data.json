@@ -5,6 +5,30 @@
       "path": "00-MOC/主页.md"
     },
     {
+      "basename": "一时疑惑",
+      "path": "00-MOC/一时疑惑.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "00-MOC/任务看板.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "todo",
+      "path": "00-MOC/todo.md"
+    },
+    {
+      "basename": "待看清单",
+      "path": "00-MOC/待看清单.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
       "basename": "丛林早晚课诵的修订与流行",
       "path": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md"
     },
@@ -19,30 +43,6 @@
     {
       "basename": "玄言玄语",
       "path": "07-Archives/4_语录/玄言玄语.md"
-    },
-    {
-      "basename": "todo",
-      "path": "00-MOC/todo.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "一时疑惑",
-      "path": "00-MOC/一时疑惑.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "00-MOC/任务看板.md"
-    },
-    {
-      "basename": "待看清单",
-      "path": "00-MOC/待看清单.md"
     },
     {
       "basename": "2024年读书清单",
