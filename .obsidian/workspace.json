@@ -10,16 +10,31 @@
           {
             "id": "19c31de3ef595c56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Templates/ZtTemplates/zt-field.eta.md",
+                "file": "07-Archives/1_zotero笔记/正統道藏24.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9da115e670cfb23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +133,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "09-Templates/ZtTemplates/zt-field.eta.md",
+                "file": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
                 "itemId": 105,
                 "attachmentId": 99,
                 "follow": null
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Templates/ZtTemplates/zt-field.eta.md"
+                "file": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
               }
             }
           },
@@ -149,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/ZtTemplates/zt-field.eta.md",
+                "file": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,31 +264,34 @@
       }
     ]
   },
-  "active": "19c31de3ef595c56",
+  "active": "9da115e670cfb23d",
   "lastOpenFiles": [
-    "09-Templates/ZtTemplates/zt-note.eta.md",
-    "09-Templates/ZtTemplates/zt-colored.eta.md",
-    "09-Templates/ZtTemplates/zt-field.eta.md",
-    "09-Templates/ZtTemplates/zt-cite.eta.md",
-    "09-Templates/ZtTemplates/zt-cite2.eta.md",
-    "09-Templates/ZtTemplates/zt-annot.eta.md",
-    "09-Templates/ZtTemplates/zt-annots.eta.md",
-    "09-Templates/zt-annot.eta 1.md",
-    "09-Templates/代码整理.md",
-    "07-Archives/1_zotero笔记/正統道藏24.md",
-    "07-Archives/1_zotero笔记/正統道藏1.md",
-    "00-MOC/书库.md",
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+    "09-Templates/ZtTemplates/（加载图片）zt-annot.eta 1.md",
+    "09-Templates/ZtTemplates/zt-annot.eta.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
+    "07-Archives/1_zotero笔记/正統道藏24.md",
+    "08-Assets/images/zotero/5JRQXZKE.png",
+    "07-Archives/1_zotero笔记/正統道藏1.md",
+    "08-Assets/images/zotero/6VWU9HX2.png",
+    "08-Assets/images/zotero/ZEC69QCX.png",
     "01-Diary/本周事务/澄清韵.md",
+    "09-Templates/ZtTemplates/zt-field.eta.md",
+    "09-Templates/ZtTemplates/zt-note.eta.md",
+    "09-Templates/ZtTemplates/zt-colored.eta.md",
+    "09-Templates/ZtTemplates/zt-cite.eta.md",
+    "09-Templates/ZtTemplates/zt-cite2.eta.md",
+    "09-Templates/ZtTemplates/zt-annots.eta.md",
+    "09-Templates/zt-annot.eta 1.md",
+    "09-Templates/代码整理.md",
+    "00-MOC/书库.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "07-Archives/4_语录/玄言玄语.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏24",
     "07-Archives/0_读书笔记/正统道藏/正统道藏1",
     "07-Archives/1_zotero笔记/正統道藏.md",
-    "08-Assets/images/zotero/5JRQXZKE.png",
     "01-Diary/本周事务/2024-01-13.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "09-Templates/书籍模板.md",
@@ -282,7 +300,6 @@
     "00-MOC/本周事务.md",
     "07-Archives/4_语录",
     "04-Watching/未命名",
-    "00-MOC/待看清单.md",
     "07-Archives/3_文章/道教",
     "07-Archives/3_文章",
     "02-Reading/1_期刊",
@@ -290,12 +307,10 @@
     "08-Assets/images/zotero/RTPEHAPX.png",
     "08-Assets/images/zotero/XFHN8L6V.png",
     "08-Assets/images/zotero/NDITDS6H.png",
-    "08-Assets/images/zotero/ZEC69QCX.png",
     "07-Archives/0_读书笔记/正统道藏",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏",
     "08-Assets - 副本/images/zotero/C89AA7DW.png",
     "08-Assets - 副本/images/zotero/ZEC69QCX.png",
-    "08-Assets - 副本/images/zotero/RTPEHAPX.png",
-    "ZtImgExcerpt/ZEC69QCX.png"
+    "08-Assets - 副本/images/zotero/RTPEHAPX.png"
   ]
 }
