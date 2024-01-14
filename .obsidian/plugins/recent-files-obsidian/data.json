@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "todo",
+      "path": "00-MOC/todo.md"
+    },
+    {
+      "basename": "待看清单",
+      "path": "00-MOC/待看清单.md"
+    },
+    {
+      "basename": "主页",
+      "path": "00-MOC/主页.md"
+    },
+    {
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
       "basename": "全真道日誦《早晚功課經》版本探源",
       "path": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "略谈玄门日诵早晚功课经",
       "path": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
-    },
-    {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
     },
     {
       "basename": "书籍模板",
@@ -95,14 +111,6 @@
     {
       "basename": "button",
       "path": "08-Assets/Scripts/button.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "待看清单",
-      "path": "00-MOC/待看清单.md"
     },
     {
       "basename": "正統道藏24",
@@ -165,10 +173,6 @@
       "path": "00-MOC/任务看板.md"
     },
     {
-      "basename": "todo",
-      "path": "00-MOC/todo.md"
-    },
-    {
       "basename": "C89AA7DW",
       "path": "08-Assets/images/zotero/C89AA7DW.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "玄门日诵早晚功课经注",
       "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md"
-    },
-    {
-      "basename": "dataview表格数据下载",
-      "path": "08-Assets/Scripts/dataview表格数据下载.md"
     }
   ],
   "omittedPaths": [],
