@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
                 "itemId": 105,
                 "attachmentId": 99,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md"
+                "file": "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,8 @@
   },
   "active": "ece2246b004b9ce2",
   "lastOpenFiles": [
+    "01-Diary/本周事务/早晚功课经浅谈.md",
+    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
     "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
     "01-Diary/本周事务/澄清韵.md",
     "00-MOC/书库.md",
@@ -201,7 +203,6 @@
     "00-MOC/一时疑惑.md",
     "00-MOC/todo.md",
     "00-MOC",
-    "01-Diary/本周事务/早晚功课经浅谈.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "07-Archives/1_zotero笔记/正統道藏24.md",
     "07-Archives/1_zotero笔记/正統道藏1.md",
@@ -219,7 +220,6 @@
     "09-Templates/ZtTemplates/zt-cite.eta.md",
     "09-Templates/ZtTemplates/zt-cite2.eta.md",
     "09-Templates/ZtTemplates/zt-annots.eta.md",
-    "09-Templates/zt-annot.eta 1.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏24",
     "07-Archives/0_读书笔记/正统道藏/正统道藏1",
     "07-Archives/4_语录",
