@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "00-MOC/主页.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -131,6 +131,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "00-MOC/主页.md",
                 "itemId": 50,
                 "attachmentId": 49,
                 "follow": null
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/Drawing 2024-01-14 19.23.06.excalidraw.md"
+                "file": "00-MOC/主页.md"
               }
             }
           },
@@ -161,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-MOC/主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +202,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "afbd9f5ec68fe05b",
   "lastOpenFiles": [
-    "00-MOC/Drawing 2024-01-14 19.24.38.excalidraw.md",
+    "00-MOC/未命名.canvas",
     "00-MOC/主页.md",
+    "01-Diary/本周事务/未命名.md",
+    "00-MOC/未命名看板.md",
+    "00-MOC/任务看板.md",
+    "00-MOC/待看清单.md",
+    "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
     "00-MOC/Drawing 2024-01-14 19.23.06.excalidraw.md",
+    "00-MOC/Drawing 2024-01-14 19.24.38.excalidraw.md",
     "00-MOC/Drawing 2024-01-14 19.20.59.excalidraw.md",
     "01-Diary/本周事务/澄清韵.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
@@ -215,8 +223,6 @@
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "00-MOC/本周事务.md",
     "00-MOC/todo.md",
-    "00-MOC/待看清单.md",
-    "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
     "00-MOC/书库.md",
     "未命名",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/略谈玄门日诵早晚功课经.md",
@@ -230,13 +236,9 @@
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引",
     "02-Reading/Z_综合性图书",
-    "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物/Z62_中国期刊、连续性出版物/弘道/有关玄门日诵早晚功课经的访谈.md",
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物/Z62_中国期刊、连续性出版物/弘道",
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物/Z62_中国期刊、连续性出版物",
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物",
-    "02-Reading/undefined有关玄门日诵早晚功课经的访谈.md",
-    "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md",
-    "09-Templates/书籍模板.md",
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈",
     "08-Assets/images/zotero/5JRQXZKE.png",
     "08-Assets/images/zotero/6VWU9HX2.png",
