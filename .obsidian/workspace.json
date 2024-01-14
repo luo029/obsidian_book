@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/书库.md",
-                "mode": "preview",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50043487548828
+    "width": 233.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -118,7 +119,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
                 "itemId": 69,
                 "attachmentId": 68,
                 "follow": null
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/书库.md"
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +191,11 @@
   },
   "active": "10bbba72532fbbe3",
   "lastOpenFiles": [
-    "07-Archives/4_语录/玄言玄语.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+    "00-MOC/书库.md",
+    "07-Archives/4_语录/玄言玄语.md",
     "01-Diary/本周事务/澄清韵.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
-    "00-MOC/书库.md",
     "01-Diary/本周事务/2024-01-13.md",
     "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
     "07-Archives/1_zotero笔记/正統道藏.md",
