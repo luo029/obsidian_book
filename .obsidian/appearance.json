@@ -2,7 +2,7 @@
   "baseFontSize": 16,
   "translucency": false,
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "S - Images Adjustments",
     "S - Admonitions",
