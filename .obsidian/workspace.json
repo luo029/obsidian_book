@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95453486e168855a",
+            "id": "ece2246b004b9ce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ece2246b004b9ce2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "be9c96be766efb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:doing",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50043487548828,
-    "collapsed": true
+    "width": 233.50043487548828
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -140,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
                 "itemId": 105,
                 "attachmentId": 99,
                 "follow": null
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md"
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md"
               }
             }
           },
@@ -170,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +187,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be9c96be766efb9a",
+  "active": "ece2246b004b9ce2",
   "lastOpenFiles": [
-    "01-Diary/本周事务/澄清韵.md",
     "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
+    "01-Diary/本周事务/澄清韵.md",
+    "00-MOC/书库.md",
+    "08-Assets/Scripts/button.md",
+    "00-MOC/读书清单/2024年读书清单.md",
+    "00-MOC/本周事务.md",
+    "00-MOC/读书清单",
+    "00-MOC/待看清单.md",
+    "00-MOC/任务看板.md",
+    "00-MOC/一时疑惑.md",
+    "00-MOC/todo.md",
+    "00-MOC",
     "01-Diary/本周事务/早晚功课经浅谈.md",
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
-    "00-MOC/书库.md",
     "07-Archives/1_zotero笔记/正統道藏24.md",
     "07-Archives/1_zotero笔记/正統道藏1.md",
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
@@ -234,15 +220,8 @@
     "09-Templates/ZtTemplates/zt-cite2.eta.md",
     "09-Templates/ZtTemplates/zt-annots.eta.md",
     "09-Templates/zt-annot.eta 1.md",
-    "09-Templates/代码整理.md",
-    "07-Archives/4_语录/玄言玄语.md",
     "07-Archives/0_读书笔记/正统道藏/正统道藏24",
     "07-Archives/0_读书笔记/正统道藏/正统道藏1",
-    "07-Archives/1_zotero笔记/正統道藏.md",
-    "01-Diary/本周事务/2024-01-13.md",
-    "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
-    "09-Templates/书籍模板.md",
-    "09-Templates/日志模板.md",
     "07-Archives/4_语录",
     "07-Archives/4_语录",
     "04-Watching/未命名",
@@ -253,8 +232,6 @@
     "08-Assets/images/zotero/RTPEHAPX.png",
     "08-Assets/images/zotero/XFHN8L6V.png",
     "08-Assets/images/zotero/NDITDS6H.png",
-    "07-Archives/0_读书笔记/正统道藏",
-    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏",
     "08-Assets - 副本/images/zotero/C89AA7DW.png",
     "08-Assets - 副本/images/zotero/ZEC69QCX.png",
     "08-Assets - 副本/images/zotero/RTPEHAPX.png"

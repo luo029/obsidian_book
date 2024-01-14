@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "早晚功课经浅谈",
+      "path": "01-Diary/本周事务/早晚功课经浅谈.md"
+    },
+    {
       "basename": "丛林早晚课诵的修订与流行",
       "path": "01-Diary/本周事务/丛林早晚课诵的修订与流行.md"
     },
@@ -9,16 +13,24 @@
       "path": "01-Diary/本周事务/澄清韵.md"
     },
     {
-      "basename": "早晚功课经浅谈",
-      "path": "01-Diary/本周事务/早晚功课经浅谈.md"
+      "basename": "书库",
+      "path": "00-MOC/书库.md"
+    },
+    {
+      "basename": "button",
+      "path": "08-Assets/Scripts/button.md"
     },
     {
       "basename": "《玄门日诵早晚功课经》与正一道教",
       "path": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
     },
     {
-      "basename": "书库",
-      "path": "00-MOC/书库.md"
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "待看清单",
+      "path": "00-MOC/待看清单.md"
     },
     {
       "basename": "正統道藏24",
@@ -97,14 +109,6 @@
       "path": "09-Templates/日志模板.md"
     },
     {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "待看清单",
-      "path": "00-MOC/待看清单.md"
-    },
-    {
       "basename": "正統道藏",
       "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "ThePath",
       "path": "08-Assets/Scripts/ThePath.md"
-    },
-    {
-      "basename": "button",
-      "path": "08-Assets/Scripts/button.md"
     },
     {
       "basename": "dataview表格数据下载",
