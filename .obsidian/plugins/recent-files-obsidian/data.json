@@ -5,16 +5,32 @@
       "path": "09-Templates/期刊模板.md"
     },
     {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
       "basename": "书籍模板",
       "path": "09-Templates/书籍模板.md"
     },
     {
-      "basename": "弘道有关玄门日诵早晚功课经的访谈",
-      "path": "02-Reading/1_期刊/弘道有关玄门日诵早晚功课经的访谈.md"
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "1",
+      "path": "07-Archives/0_读书笔记/弘道/有关玄门日诵早晚功课经的访谈/1.md"
+    },
+    {
+      "basename": "澄清韵",
+      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
+    },
+    {
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "02-Reading/1_期刊/0_inbox/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
     },
     {
       "basename": "电影模板",
@@ -125,10 +141,6 @@
       "path": "07-Archives/4_语录/玄言玄语.md"
     },
     {
-      "basename": "澄清韵",
-      "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
-    },
-    {
       "basename": "正統道藏",
       "path": "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Mdnotes Default Template",
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
-      "basename": "obsidian修改",
-      "path": "03-Projects/obsidian修改.md"
-    },
-    {
-      "basename": "是，首相第一季",
-      "path": "04-Watching/teleplay/是，首相第一季.md"
-    },
-    {
-      "basename": "楚门的世界",
-      "path": "04-Watching/movie/楚门的世界.md"
     }
   ],
   "omittedPaths": [],
