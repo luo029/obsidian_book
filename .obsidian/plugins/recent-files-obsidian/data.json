@@ -5,12 +5,16 @@
       "path": "00-MOC/主页.md"
     },
     {
-      "basename": "一时疑惑",
-      "path": "00-MOC/一时疑惑.md"
+      "basename": "todo",
+      "path": "00-MOC/todo.md"
     },
     {
       "basename": "未命名",
       "path": "01-Diary/本周事务/未命名.md"
+    },
+    {
+      "basename": "一时疑惑",
+      "path": "00-MOC/一时疑惑.md"
     },
     {
       "basename": "书库",
@@ -19,10 +23,6 @@
     {
       "basename": "任务看板",
       "path": "00-MOC/任务看板.md"
-    },
-    {
-      "basename": "todo",
-      "path": "00-MOC/todo.md"
     },
     {
       "basename": "待看清单",
