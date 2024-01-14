@@ -29,5 +29,6 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
   "readableLineLength": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "vimMode": false
 }

@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "略谈玄门日诵早晚功课经",
-      "path": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
-    },
-    {
       "basename": "早晚功课经浅谈",
       "path": "01-Diary/本周事务/早晚功课经浅谈.md"
     },
     {
-      "basename": "《玄门日诵早晚功课经》与正一道教",
-      "path": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
+      "basename": "略谈玄门日诵早晚功课经",
+      "path": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
+    },
+    {
+      "basename": "玄门日诵早晚功课经注",
+      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
+    },
+    {
+      "basename": "zt-annot.eta",
+      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
+    },
+    {
+      "basename": "zt-annots.eta",
+      "path": "09-Templates/ZtTemplates/zt-annots.eta.md"
+    },
+    {
+      "basename": "zt-note.eta",
+      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
+    },
+    {
+      "basename": "有关玄门日诵早晚功课经的访谈",
+      "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
+    },
+    {
+      "basename": "zt-field.eta",
+      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
+    },
+    {
+      "basename": "zt-colored.eta",
+      "path": "09-Templates/ZtTemplates/zt-colored.eta.md"
+    },
+    {
+      "basename": "zt-cite2.eta",
+      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
+    },
+    {
+      "basename": "zt-cite.eta",
+      "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
+    },
+    {
+      "basename": "澄清韵",
+      "path": "01-Diary/本周事务/澄清韵.md"
     },
     {
       "basename": "书库",
       "path": "00-MOC/书库.md"
     },
     {
-      "basename": "澄清韵",
-      "path": "01-Diary/本周事务/澄清韵.md"
+      "basename": "正統道藏",
+      "path": "07-Archives/1_zotero笔记/正統道藏.md"
+    },
+    {
+      "basename": "《玄门日诵早晚功课经》与正一道教",
+      "path": "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md"
     },
     {
       "basename": "玄言玄语",
@@ -27,18 +67,6 @@
     {
       "basename": "澄清韵",
       "path": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
-    },
-    {
-      "basename": "正統道藏",
-      "path": "07-Archives/1_zotero笔记/正統道藏.md"
-    },
-    {
-      "basename": "有关玄门日诵早晚功课经的访谈",
-      "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
-    },
-    {
-      "basename": "玄门日诵早晚功课经注",
-      "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
     },
     {
       "basename": "书籍模板",
@@ -67,10 +95,6 @@
     {
       "basename": "todo",
       "path": "00-MOC/todo.md"
-    },
-    {
-      "basename": "zt-note.eta",
-      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
     },
     {
       "basename": "C89AA7DW",
@@ -133,10 +157,6 @@
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
     },
     {
-      "basename": "zt-annot.eta",
-      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
-    },
-    {
       "basename": "obsidian修改",
       "path": "03-Projects/obsidian修改.md"
     },
@@ -147,10 +167,6 @@
     {
       "basename": "楚门的世界",
       "path": "04-Watching/movie/楚门的世界.md"
-    },
-    {
-      "basename": "zt-field.eta",
-      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
     },
     {
       "basename": "草稿模板",
@@ -183,22 +199,6 @@
     {
       "basename": "第一集",
       "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/第一集.md"
-    },
-    {
-      "basename": "第一章",
-      "path": "07-Archives/2_观影笔记/movie/楚门的世界/第一章.md"
-    },
-    {
-      "basename": "楚门的世界",
-      "path": "07-Archives/2_观影笔记/movie/楚门的世界/楚门的世界.md"
-    },
-    {
-      "basename": "zt-annots.eta",
-      "path": "09-Templates/ZtTemplates/zt-annots.eta.md"
-    },
-    {
-      "basename": "zt-cite.eta",
-      "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
     }
   ],
   "omittedPaths": [],
