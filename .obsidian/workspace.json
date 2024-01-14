@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2e55121b73a5886f",
+        "id": "bd6eea8e7a964a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "82f5d4000199a8c5",
+            "id": "c6bab0565388e3da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",
+                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",
+                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
                 "itemId": 105,
                 "attachmentId": 99,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md"
+                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",
+                "file": "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,13 +187,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82f5d4000199a8c5",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/2.md",
-    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md",
+    "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/略谈玄门日诵早晚功课经.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/有关玄门日诵早晚功课经的访谈.md",
-    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/1.md",
+    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
+    "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/全真道日誦《早晚功課經》版本探源.md",
     "09-Templates/期刊模板.md",
+    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/1.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/有关玄门日诵早晚功课经的访谈.md",
+    "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈/2.md",
+    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+    "02-Reading/1_期刊/0_inbox",
+    "02-Reading/1_期刊",
+    "00-MOC/书库.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引",
     "02-Reading/Z_综合性图书",
@@ -201,12 +209,9 @@
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物/Z62_中国期刊、连续性出版物/弘道",
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物/Z62_中国期刊、连续性出版物",
     "02-Reading/Z_综合性图书/Z6_期刊、连续性出版物",
-    "02-Reading/1_期刊/0_inbox",
-    "02-Reading/1_期刊",
     "02-Reading/undefined有关玄门日诵早晚功课经的访谈.md",
     "02-Reading/1_期刊/弘道/有关玄门日诵早晚功课经的访谈.md",
     "09-Templates/书籍模板.md",
-    "00-MOC/书库.md",
     "02-Reading/1_期刊/0_inbox/ceshi .md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
     "02-Reading/1_期刊/0_inbox/测试.md",
@@ -220,10 +225,6 @@
     "07-Archives/0_读书笔记/有关玄门日诵早晚功课经的访谈",
     "07-Archives/0_读书笔记/弘道",
     "09-Templates/电影模板.md",
-    "09-Templates/每周小结.md",
-    "01-Diary/本周事务/早晚功课经浅谈.md",
-    "01-Diary/本周事务/澄清韵.md",
-    "02-Reading/undefined未命名.md",
     "08-Assets/images/zotero/5JRQXZKE.png",
     "08-Assets/images/zotero/6VWU9HX2.png",
     "08-Assets/images/zotero/ZEC69QCX.png",
