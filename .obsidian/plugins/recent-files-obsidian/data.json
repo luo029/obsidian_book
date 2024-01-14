@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "zt-annot.eta 1",
+      "path": "09-Templates/zt-annot.eta 1.md"
+    },
+    {
+      "basename": "zt-note.eta",
+      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
+    },
+    {
+      "basename": "zt-annot.eta",
+      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
+    },
+    {
+      "basename": "zt-field.eta",
+      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
+    },
+    {
+      "basename": "zt-colored.eta",
+      "path": "09-Templates/ZtTemplates/zt-colored.eta.md"
+    },
+    {
+      "basename": "zt-cite2.eta",
+      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
+    },
+    {
+      "basename": "zt-cite.eta",
+      "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
+    },
+    {
+      "basename": "zt-annots.eta",
+      "path": "09-Templates/ZtTemplates/zt-annots.eta.md"
+    },
+    {
       "basename": "早晚功课经浅谈",
       "path": "01-Diary/本周事务/早晚功课经浅谈.md"
     },
@@ -33,36 +65,8 @@
       "path": "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md"
     },
     {
-      "basename": "zt-annot.eta",
-      "path": "09-Templates/ZtTemplates/zt-annot.eta.md"
-    },
-    {
-      "basename": "zt-annots.eta",
-      "path": "09-Templates/ZtTemplates/zt-annots.eta.md"
-    },
-    {
-      "basename": "zt-note.eta",
-      "path": "09-Templates/ZtTemplates/zt-note.eta.md"
-    },
-    {
       "basename": "有关玄门日诵早晚功课经的访谈",
       "path": "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md"
-    },
-    {
-      "basename": "zt-field.eta",
-      "path": "09-Templates/ZtTemplates/zt-field.eta.md"
-    },
-    {
-      "basename": "zt-colored.eta",
-      "path": "09-Templates/ZtTemplates/zt-colored.eta.md"
-    },
-    {
-      "basename": "zt-cite2.eta",
-      "path": "09-Templates/ZtTemplates/zt-cite2.eta.md"
-    },
-    {
-      "basename": "zt-cite.eta",
-      "path": "09-Templates/ZtTemplates/zt-cite.eta.md"
     },
     {
       "basename": "书库",
@@ -195,10 +199,6 @@
     {
       "basename": "西游记",
       "path": "04-Watching/teleplay/西游记.md"
-    },
-    {
-      "basename": "是，首相第一季",
-      "path": "07-Archives/2_观影笔记/teleplay/是，首相第一季/是，首相第一季.md"
     }
   ],
   "omittedPaths": [],
