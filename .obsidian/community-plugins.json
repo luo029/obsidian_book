@@ -10,7 +10,6 @@
   "obsidian-douban-plugin",
   "editing-toolbar",
   "obsidian-hide-sidebars-when-narrow",
-  "homepage",
   "obsidian-hover-editor",
   "obsidian-kanban",
   "obsidian-linter",
@@ -25,8 +24,7 @@
   "obsidian-style-settings",
   "obsidian-image-auto-upload-plugin",
   "obsidian-image-toolkit",
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "multi-column-markdown",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "homepage"
 ]
