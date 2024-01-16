@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "00-MOC/本周事务.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "00-MOC/本周事务.md",
                 "itemId": 88,
                 "attachmentId": 87,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md"
+                "file": "00-MOC/本周事务.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "file": "00-MOC/本周事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +187,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7646f25797661163",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
-    "01-Diary/本周事务/早晚功课经浅谈.md",
-    "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
     "01-Diary/本周事务/澄清韵.md",
-    "00-MOC/书库.md",
+    "01-Diary/本周事务/丛林早晚课诵的修订与流行.md",
     "01-Diary/本周事务/戊日之辩.md",
-    "01-Diary/本周事务/().md",
-    "07-Archives/0_读书笔记/略谈玄门日诵早晚功课经/0.md",
     "07-Archives/0_读书笔记/略谈玄门日诵早晚功课经/略谈玄门日诵早晚功课经.md",
+    "07-Archives/0_读书笔记/略谈玄门日诵早晚功课经/0.md",
+    "01-Diary/本周事务/早晚功课经浅谈.md",
+    "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
+    "00-MOC/书库.md",
+    "01-Diary/本周事务/().md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/略谈玄门日诵早晚功课经.md",
     "07-Archives/0_读书笔记/略谈玄门日诵早晚功课经",
     "07-Archives/3_语录/好玩的.md",
