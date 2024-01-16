@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "b9643284e23828c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cfa4af6088dc5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/早晚功课经浅谈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +205,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7646f25797661163",
+  "active": "3cfa4af6088dc5a9",
   "lastOpenFiles": [
     "01-Diary/本周事务/《玄门日诵早晚功课经》与正一道教.md",
     "01-Diary/本周事务/早晚功课经浅谈.md",
