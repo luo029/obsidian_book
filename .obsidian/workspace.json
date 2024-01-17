@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f91072ef212c9ee8",
+        "id": "03fbb0d15afa1f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1eb02cd3154e76",
+            "id": "9037120f56878555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -189,8 +188,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb1eb02cd3154e76",
+  "active": "9037120f56878555",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2024-01-17.md",
+    "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
     "00-MOC/书库.md",
     "00-MOC/任务看板.md",
     "00-MOC/待看清单.md",
@@ -198,7 +199,6 @@
     "00-MOC/一时疑惑.md",
     "01-Diary/周小结/2024-01-16_周小结.md",
     "01-Diary/本周事务/未命名.md",
-    "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
     "03-Projects/obsidian修改.md",
     "03-Projects/浅谈玄门早晚功课经",
     "09-Templates/每周小结.md",
@@ -218,7 +218,6 @@
     "07-Archives/0_读书笔记/略谈玄门日诵早晚功课经",
     "07-Archives/3_语录/好玩的.md",
     "07-Archives/3_语录/玄言玄语.md",
-    "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "00-MOC/未命名.canvas",
     "未命名",
     "02-Reading/1_期刊/0_inbox",
