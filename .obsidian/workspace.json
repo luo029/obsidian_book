@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "07-Archives/3_语录/玄言玄语.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "07-Archives/3_语录/玄言玄语.md",
                 "itemId": 88,
                 "attachmentId": 87,
                 "follow": null
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/书库.md"
+                "file": "07-Archives/3_语录/玄言玄语.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "07-Archives/3_语录/玄言玄语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
