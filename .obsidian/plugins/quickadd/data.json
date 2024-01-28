@@ -121,11 +121,45 @@
     },
     {
       "id": "0af4973b-f459-4fd7-9070-e8d722ea0b63",
-      "name": "📝微言",
+      "name": "📝玄言",
       "type": "Capture",
       "command": true,
       "appendLink": false,
       "captureTo": "07-Archives/3_语录/玄言玄语.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": "09-Templates/草稿模板.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\\n1.  > {{VALUE:记录}}\n\n "
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# 寻章摘句：",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2e358ea0-bfa3-462d-9f15-26f885e43f12",
+      "name": "📝杂句",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "07-Archives/3_语录/杂句.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
