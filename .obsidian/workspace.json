@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
