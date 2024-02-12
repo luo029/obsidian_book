@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "384f6fea041c00e9",
+        "id": "c9a246762e33f784",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb73505a3ee60d6",
+            "id": "ac75c5e37feb9aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dfb73505a3ee60d6",
+  "active": "ac75c5e37feb9aa7",
   "lastOpenFiles": [
     "07-Archives/3_语录/玄言玄语.md",
     "07-Archives/3_语录/杂句.md",
