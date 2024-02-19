@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20bed6f07d235703",
+        "id": "082ffb0ade79f731",
         "type": "tabs",
         "children": [
           {
-            "id": "089d549e3cf0f926",
+            "id": "452bf99432cbc42d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "itemId": 88,
                 "attachmentId": 87,
                 "follow": null
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/书库.md"
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "089d549e3cf0f926",
+  "active": "452bf99432cbc42d",
   "lastOpenFiles": [
+    "00-MOC/书库.md",
     "03-Projects/obsidian修改.md",
     "01-Diary/周小结/2024-01-16_周小结.md",
     "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
@@ -197,7 +200,6 @@
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
-    "00-MOC/书库.md",
     "07-Archives/3_语录/玄言玄语.md",
     "07-Archives/3_语录/杂句.md",
     "07-Archives/3_语录/好玩的.md",
