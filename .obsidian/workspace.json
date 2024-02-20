@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "082ffb0ade79f731",
+        "id": "0c46375c7d8ecf45",
         "type": "tabs",
         "children": [
           {
-            "id": "452bf99432cbc42d",
+            "id": "62146fe3a1fa2655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "itemId": 88,
                 "attachmentId": 87,
                 "follow": null
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md"
+                "file": "00-MOC/书库.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "452bf99432cbc42d",
+  "active": "62146fe3a1fa2655",
   "lastOpenFiles": [
     "00-MOC/书库.md",
     "03-Projects/obsidian修改.md",
