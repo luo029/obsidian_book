@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0512d20be46a8d1d",
+        "id": "1dbbbe59d3427a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c569b409f2f03ed",
+            "id": "3661d36031b51cc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,19 +73,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c288782e5824c2c7",
-            "type": "leaf",
-            "state": {
-              "type": "zotero-annotation-view",
-              "state": {
-                "file": "00-MOC/书库.md",
-                "itemId": 88,
-                "attachmentId": 87,
-                "follow": null
-              }
-            }
           }
         ]
       },
@@ -124,8 +111,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c288782e5824c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "00-MOC/书库.md",
+                "itemId": 90,
+                "attachmentId": 83,
+                "follow": null
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4f101d806a54a17c",
@@ -187,18 +188,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4c569b409f2f03ed",
+  "active": "3661d36031b51cc0",
   "lastOpenFiles": [
+    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
+    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
+    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+    "00-MOC/书库.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/《玄门日诵早晚功课经》与正一道教.md",
     "01-Diary/周小结/2024-01-16_周小结.md",
-    "00-MOC/书库.md",
     "03-Projects/obsidian修改.md",
     "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
-    "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "07-Archives/1_zotero笔记/正統道藏1.md",
-    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
-    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
-    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "07-Archives/3_语录/玄言玄语.md",
     "07-Archives/3_语录/杂句.md",
     "07-Archives/3_语录/好玩的.md",
