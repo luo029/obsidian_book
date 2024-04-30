@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e74860723d25c8c",
+        "id": "9bb29443656d1724",
         "type": "tabs",
         "children": [
           {
-            "id": "4b48ffbc98e6a41e",
+            "id": "7aa7ae0ed1435576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "itemId": 90,
                 "attachmentId": 83,
                 "follow": null
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md"
+                "file": "00-MOC/书库.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
+                "file": "00-MOC/书库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4b48ffbc98e6a41e",
+  "active": "7aa7ae0ed1435576",
   "lastOpenFiles": [
     "00-MOC/书库.md",
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
