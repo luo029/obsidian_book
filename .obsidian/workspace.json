@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bb29443656d1724",
+        "id": "c511ba9466ca139e",
         "type": "tabs",
         "children": [
           {
-            "id": "7aa7ae0ed1435576",
+            "id": "ae8403921f4badbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7aa7ae0ed1435576",
+  "active": "ae8403921f4badbe",
   "lastOpenFiles": [
     "00-MOC/书库.md",
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
