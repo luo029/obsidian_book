@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
-                "mode": "preview",
+                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
                 "itemId": 90,
                 "attachmentId": 83,
                 "follow": null
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md"
+                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
+                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +190,17 @@
   },
   "active": "9dba8ac12362eee4",
   "lastOpenFiles": [
+    "03-Projects/obsidian修改.md",
+    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
+    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
+    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
     "00-MOC/书库.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
-    "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
-    "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
-    "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/《玄门日诵早晚功课经》与正一道教.md",
     "01-Diary/周小结/2024-01-16_周小结.md",
-    "03-Projects/obsidian修改.md",
     "07-Archives/1_zotero笔记/正統道藏1.md",
     "07-Archives/3_语录/玄言玄语.md",
     "07-Archives/3_语录/杂句.md",
