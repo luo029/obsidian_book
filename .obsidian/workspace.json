@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb8ebd8c2711e2a3",
+        "id": "320d4c069a4884a3",
         "type": "tabs",
         "children": [
           {
-            "id": "9dba8ac12362eee4",
+            "id": "975636dd4b443a7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
-                "mode": "source",
+                "file": "00-MOC/书库.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+                "file": "00-MOC/书库.md",
                 "itemId": 90,
                 "attachmentId": 83,
                 "follow": null
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md"
+                "file": "00-MOC/书库.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Archives/0_读书笔记/玄门日诵早晚功课经注/澄清韵.md",
+                "file": "00-MOC/书库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9dba8ac12362eee4",
+  "active": "975636dd4b443a7f",
   "lastOpenFiles": [
     "03-Projects/obsidian修改.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
