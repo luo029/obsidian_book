@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "itemId": 90,
                 "attachmentId": 83,
                 "follow": null
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/书库.md"
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/书库.md",
+                "file": "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +191,13 @@
   },
   "active": "9a0eab5cb1d815c7",
   "lastOpenFiles": [
+    "00-MOC/书库.md",
     "03-Projects/obsidian修改.md",
     "07-Archives/1_zotero笔记/玄门日诵早晚功课经注.md",
     "07-Archives/1_zotero笔记/全真道日誦《早晚功課經》版本探源.md",
     "07-Archives/1_zotero笔记/略谈玄门日诵早晚功课经.md",
     "03-Projects/浅谈玄门早晚功课经/浅谈玄门早晚功课经.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B952经文/玄门日诵早晚功课经注.md",
-    "00-MOC/书库.md",
     "02-Reading/B_哲学、宗教/B9宗教/B95道教/B951道藏/正統道藏.md",
     "07-Archives/1_zotero笔记/有关玄门日诵早晚功课经的访谈.md",
     "02-Reading/Z_综合性图书/Z8_图书目录、文摘、索引/Z89_文摘、索引/《玄门日诵早晚功课经》与正一道教.md",
